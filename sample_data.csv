@@ -1,0 +1,2161 @@
+date,state,vehicle_class,manufacturer,registrations
+2023-01-01,Maharashtra,2W,Hero,29771
+2023-01-01,Uttar Pradesh,2W,Hero,26794
+2023-01-01,Gujarat,2W,Hero,23817
+2023-01-01,Tamil Nadu,2W,Hero,23817
+2023-01-01,Karnataka,2W,Hero,22329
+2023-01-01,Delhi,2W,Hero,22329
+2023-01-01,Maharashtra,2W,Honda,24229
+2023-01-01,Uttar Pradesh,2W,Honda,21806
+2023-01-01,Gujarat,2W,Honda,19384
+2023-01-01,Tamil Nadu,2W,Honda,19384
+2023-01-01,Karnataka,2W,Honda,18172
+2023-01-01,Delhi,2W,Honda,18172
+2023-01-01,Maharashtra,2W,TVS,19222
+2023-01-01,Uttar Pradesh,2W,TVS,17299
+2023-01-01,Gujarat,2W,TVS,15377
+2023-01-01,Tamil Nadu,2W,TVS,15377
+2023-01-01,Karnataka,2W,TVS,14416
+2023-01-01,Delhi,2W,TVS,14416
+2023-01-01,Maharashtra,2W,Bajaj,13923
+2023-01-01,Uttar Pradesh,2W,Bajaj,12531
+2023-01-01,Gujarat,2W,Bajaj,11138
+2023-01-01,Tamil Nadu,2W,Bajaj,11138
+2023-01-01,Karnataka,2W,Bajaj,10442
+2023-01-01,Delhi,2W,Bajaj,10442
+2023-01-01,Maharashtra,3W,Mahindra,1602
+2023-01-01,Uttar Pradesh,3W,Mahindra,1442
+2023-01-01,Gujarat,3W,Mahindra,1282
+2023-01-01,Tamil Nadu,3W,Mahindra,1282
+2023-01-01,Karnataka,3W,Mahindra,1202
+2023-01-01,Delhi,3W,Mahindra,1202
+2023-01-01,Maharashtra,3W,Bajaj,2433
+2023-01-01,Uttar Pradesh,3W,Bajaj,2190
+2023-01-01,Gujarat,3W,Bajaj,1947
+2023-01-01,Tamil Nadu,3W,Bajaj,1947
+2023-01-01,Karnataka,3W,Bajaj,1825
+2023-01-01,Delhi,3W,Bajaj,1825
+2023-01-01,Maharashtra,3W,Tata,949
+2023-01-01,Uttar Pradesh,3W,Tata,854
+2023-01-01,Gujarat,3W,Tata,760
+2023-01-01,Tamil Nadu,3W,Tata,760
+2023-01-01,Karnataka,3W,Tata,712
+2023-01-01,Delhi,3W,Tata,712
+2023-01-01,Maharashtra,4W,Maruti,22042
+2023-01-01,Uttar Pradesh,4W,Maruti,19838
+2023-01-01,Gujarat,4W,Maruti,17633
+2023-01-01,Tamil Nadu,4W,Maruti,17633
+2023-01-01,Karnataka,4W,Maruti,16531
+2023-01-01,Delhi,4W,Maruti,16531
+2023-01-01,Maharashtra,4W,Hyundai,13270
+2023-01-01,Uttar Pradesh,4W,Hyundai,11943
+2023-01-01,Gujarat,4W,Hyundai,10616
+2023-01-01,Tamil Nadu,4W,Hyundai,10616
+2023-01-01,Karnataka,4W,Hyundai,9952
+2023-01-01,Delhi,4W,Hyundai,9952
+2023-01-01,Maharashtra,4W,Tata,12562
+2023-01-01,Uttar Pradesh,4W,Tata,11306
+2023-01-01,Gujarat,4W,Tata,10050
+2023-01-01,Tamil Nadu,4W,Tata,10050
+2023-01-01,Karnataka,4W,Tata,9422
+2023-01-01,Delhi,4W,Tata,9422
+2023-01-01,Maharashtra,4W,Kia,4675
+2023-01-01,Uttar Pradesh,4W,Kia,4208
+2023-01-01,Gujarat,4W,Kia,3740
+2023-01-01,Tamil Nadu,4W,Kia,3740
+2023-01-01,Karnataka,4W,Kia,3506
+2023-01-01,Delhi,4W,Kia,3506
+2023-01-01,Maharashtra,4W,MG,1550
+2023-01-01,Uttar Pradesh,4W,MG,1395
+2023-01-01,Gujarat,4W,MG,1240
+2023-01-01,Tamil Nadu,4W,MG,1240
+2023-01-01,Karnataka,4W,MG,1162
+2023-01-01,Delhi,4W,MG,1162
+2023-02-01,Maharashtra,2W,Hero,28175
+2023-02-01,Uttar Pradesh,2W,Hero,25358
+2023-02-01,Gujarat,2W,Hero,22540
+2023-02-01,Tamil Nadu,2W,Hero,22540
+2023-02-01,Karnataka,2W,Hero,21131
+2023-02-01,Delhi,2W,Hero,21131
+2023-02-01,Maharashtra,2W,Honda,25315
+2023-02-01,Uttar Pradesh,2W,Honda,22783
+2023-02-01,Gujarat,2W,Honda,20252
+2023-02-01,Tamil Nadu,2W,Honda,20252
+2023-02-01,Karnataka,2W,Honda,18986
+2023-02-01,Delhi,2W,Honda,18986
+2023-02-01,Maharashtra,2W,TVS,18650
+2023-02-01,Uttar Pradesh,2W,TVS,16785
+2023-02-01,Gujarat,2W,TVS,14920
+2023-02-01,Tamil Nadu,2W,TVS,14920
+2023-02-01,Karnataka,2W,TVS,13987
+2023-02-01,Delhi,2W,TVS,13987
+2023-02-01,Maharashtra,2W,Bajaj,13039
+2023-02-01,Uttar Pradesh,2W,Bajaj,11735
+2023-02-01,Gujarat,2W,Bajaj,10431
+2023-02-01,Tamil Nadu,2W,Bajaj,10431
+2023-02-01,Karnataka,2W,Bajaj,9779
+2023-02-01,Delhi,2W,Bajaj,9779
+2023-02-01,Maharashtra,3W,Mahindra,1732
+2023-02-01,Uttar Pradesh,3W,Mahindra,1559
+2023-02-01,Gujarat,3W,Mahindra,1386
+2023-02-01,Tamil Nadu,3W,Mahindra,1386
+2023-02-01,Karnataka,3W,Mahindra,1299
+2023-02-01,Delhi,3W,Mahindra,1299
+2023-02-01,Maharashtra,3W,Bajaj,2591
+2023-02-01,Uttar Pradesh,3W,Bajaj,2332
+2023-02-01,Gujarat,3W,Bajaj,2073
+2023-02-01,Tamil Nadu,3W,Bajaj,2073
+2023-02-01,Karnataka,3W,Bajaj,1943
+2023-02-01,Delhi,3W,Bajaj,1943
+2023-02-01,Maharashtra,3W,Tata,1030
+2023-02-01,Uttar Pradesh,3W,Tata,927
+2023-02-01,Gujarat,3W,Tata,824
+2023-02-01,Tamil Nadu,3W,Tata,824
+2023-02-01,Karnataka,3W,Tata,772
+2023-02-01,Delhi,3W,Tata,772
+2023-02-01,Maharashtra,4W,Maruti,22519
+2023-02-01,Uttar Pradesh,4W,Maruti,20267
+2023-02-01,Gujarat,4W,Maruti,18015
+2023-02-01,Tamil Nadu,4W,Maruti,18015
+2023-02-01,Karnataka,4W,Maruti,16889
+2023-02-01,Delhi,4W,Maruti,16889
+2023-02-01,Maharashtra,4W,Hyundai,12349
+2023-02-01,Uttar Pradesh,4W,Hyundai,11114
+2023-02-01,Gujarat,4W,Hyundai,9879
+2023-02-01,Tamil Nadu,4W,Hyundai,9879
+2023-02-01,Karnataka,4W,Hyundai,9262
+2023-02-01,Delhi,4W,Hyundai,9262
+2023-02-01,Maharashtra,4W,Tata,11124
+2023-02-01,Uttar Pradesh,4W,Tata,10012
+2023-02-01,Gujarat,4W,Tata,8899
+2023-02-01,Tamil Nadu,4W,Tata,8899
+2023-02-01,Karnataka,4W,Tata,8343
+2023-02-01,Delhi,4W,Tata,8343
+2023-02-01,Maharashtra,4W,Kia,5048
+2023-02-01,Uttar Pradesh,4W,Kia,4543
+2023-02-01,Gujarat,4W,Kia,4038
+2023-02-01,Tamil Nadu,4W,Kia,4038
+2023-02-01,Karnataka,4W,Kia,3786
+2023-02-01,Delhi,4W,Kia,3786
+2023-02-01,Maharashtra,4W,MG,1495
+2023-02-01,Uttar Pradesh,4W,MG,1345
+2023-02-01,Gujarat,4W,MG,1196
+2023-02-01,Tamil Nadu,4W,MG,1196
+2023-02-01,Karnataka,4W,MG,1121
+2023-02-01,Delhi,4W,MG,1121
+2023-03-01,Maharashtra,2W,Hero,28798
+2023-03-01,Uttar Pradesh,2W,Hero,25918
+2023-03-01,Gujarat,2W,Hero,23038
+2023-03-01,Tamil Nadu,2W,Hero,23038
+2023-03-01,Karnataka,2W,Hero,21598
+2023-03-01,Delhi,2W,Hero,21598
+2023-03-01,Maharashtra,2W,Honda,23239
+2023-03-01,Uttar Pradesh,2W,Honda,20915
+2023-03-01,Gujarat,2W,Honda,18591
+2023-03-01,Tamil Nadu,2W,Honda,18591
+2023-03-01,Karnataka,2W,Honda,17429
+2023-03-01,Delhi,2W,Honda,17429
+2023-03-01,Maharashtra,2W,TVS,16813
+2023-03-01,Uttar Pradesh,2W,TVS,15132
+2023-03-01,Gujarat,2W,TVS,13450
+2023-03-01,Tamil Nadu,2W,TVS,13450
+2023-03-01,Karnataka,2W,TVS,12610
+2023-03-01,Delhi,2W,TVS,12610
+2023-03-01,Maharashtra,2W,Bajaj,14058
+2023-03-01,Uttar Pradesh,2W,Bajaj,12653
+2023-03-01,Gujarat,2W,Bajaj,11247
+2023-03-01,Tamil Nadu,2W,Bajaj,11247
+2023-03-01,Karnataka,2W,Bajaj,10544
+2023-03-01,Delhi,2W,Bajaj,10544
+2023-03-01,Maharashtra,3W,Mahindra,1601
+2023-03-01,Uttar Pradesh,3W,Mahindra,1441
+2023-03-01,Gujarat,3W,Mahindra,1280
+2023-03-01,Tamil Nadu,3W,Mahindra,1280
+2023-03-01,Karnataka,3W,Mahindra,1200
+2023-03-01,Delhi,3W,Mahindra,1200
+2023-03-01,Maharashtra,3W,Bajaj,2557
+2023-03-01,Uttar Pradesh,3W,Bajaj,2301
+2023-03-01,Gujarat,3W,Bajaj,2045
+2023-03-01,Tamil Nadu,3W,Bajaj,2045
+2023-03-01,Karnataka,3W,Bajaj,1918
+2023-03-01,Delhi,3W,Bajaj,1918
+2023-03-01,Maharashtra,3W,Tata,1013
+2023-03-01,Uttar Pradesh,3W,Tata,912
+2023-03-01,Gujarat,3W,Tata,810
+2023-03-01,Tamil Nadu,3W,Tata,810
+2023-03-01,Karnataka,3W,Tata,760
+2023-03-01,Delhi,3W,Tata,760
+2023-03-01,Maharashtra,4W,Maruti,22719
+2023-03-01,Uttar Pradesh,4W,Maruti,20447
+2023-03-01,Gujarat,4W,Maruti,18175
+2023-03-01,Tamil Nadu,4W,Maruti,18175
+2023-03-01,Karnataka,4W,Maruti,17039
+2023-03-01,Delhi,4W,Maruti,17039
+2023-03-01,Maharashtra,4W,Hyundai,13129
+2023-03-01,Uttar Pradesh,4W,Hyundai,11816
+2023-03-01,Gujarat,4W,Hyundai,10504
+2023-03-01,Tamil Nadu,4W,Hyundai,10504
+2023-03-01,Karnataka,4W,Hyundai,9847
+2023-03-01,Delhi,4W,Hyundai,9847
+2023-03-01,Maharashtra,4W,Tata,12435
+2023-03-01,Uttar Pradesh,4W,Tata,11192
+2023-03-01,Gujarat,4W,Tata,9948
+2023-03-01,Tamil Nadu,4W,Tata,9948
+2023-03-01,Karnataka,4W,Tata,9326
+2023-03-01,Delhi,4W,Tata,9326
+2023-03-01,Maharashtra,4W,Kia,5015
+2023-03-01,Uttar Pradesh,4W,Kia,4514
+2023-03-01,Gujarat,4W,Kia,4012
+2023-03-01,Tamil Nadu,4W,Kia,4012
+2023-03-01,Karnataka,4W,Kia,3762
+2023-03-01,Delhi,4W,Kia,3762
+2023-03-01,Maharashtra,4W,MG,1559
+2023-03-01,Uttar Pradesh,4W,MG,1403
+2023-03-01,Gujarat,4W,MG,1247
+2023-03-01,Tamil Nadu,4W,MG,1247
+2023-03-01,Karnataka,4W,MG,1169
+2023-03-01,Delhi,4W,MG,1169
+2023-04-01,Maharashtra,2W,Hero,32874
+2023-04-01,Uttar Pradesh,2W,Hero,29587
+2023-04-01,Gujarat,2W,Hero,26300
+2023-04-01,Tamil Nadu,2W,Hero,26300
+2023-04-01,Karnataka,2W,Hero,24656
+2023-04-01,Delhi,2W,Hero,24656
+2023-04-01,Maharashtra,2W,Honda,26292
+2023-04-01,Uttar Pradesh,2W,Honda,23663
+2023-04-01,Gujarat,2W,Honda,21034
+2023-04-01,Tamil Nadu,2W,Honda,21034
+2023-04-01,Karnataka,2W,Honda,19719
+2023-04-01,Delhi,2W,Honda,19719
+2023-04-01,Maharashtra,2W,TVS,19264
+2023-04-01,Uttar Pradesh,2W,TVS,17338
+2023-04-01,Gujarat,2W,TVS,15412
+2023-04-01,Tamil Nadu,2W,TVS,15412
+2023-04-01,Karnataka,2W,TVS,14448
+2023-04-01,Delhi,2W,TVS,14448
+2023-04-01,Maharashtra,2W,Bajaj,14682
+2023-04-01,Uttar Pradesh,2W,Bajaj,13214
+2023-04-01,Gujarat,2W,Bajaj,11746
+2023-04-01,Tamil Nadu,2W,Bajaj,11746
+2023-04-01,Karnataka,2W,Bajaj,11012
+2023-04-01,Delhi,2W,Bajaj,11012
+2023-04-01,Maharashtra,3W,Mahindra,1576
+2023-04-01,Uttar Pradesh,3W,Mahindra,1418
+2023-04-01,Gujarat,3W,Mahindra,1261
+2023-04-01,Tamil Nadu,3W,Mahindra,1261
+2023-04-01,Karnataka,3W,Mahindra,1182
+2023-04-01,Delhi,3W,Mahindra,1182
+2023-04-01,Maharashtra,3W,Bajaj,2331
+2023-04-01,Uttar Pradesh,3W,Bajaj,2098
+2023-04-01,Gujarat,3W,Bajaj,1864
+2023-04-01,Tamil Nadu,3W,Bajaj,1864
+2023-04-01,Karnataka,3W,Bajaj,1748
+2023-04-01,Delhi,3W,Bajaj,1748
+2023-04-01,Maharashtra,3W,Tata,981
+2023-04-01,Uttar Pradesh,3W,Tata,883
+2023-04-01,Gujarat,3W,Tata,784
+2023-04-01,Tamil Nadu,3W,Tata,784
+2023-04-01,Karnataka,3W,Tata,735
+2023-04-01,Delhi,3W,Tata,735
+2023-04-01,Maharashtra,4W,Maruti,20794
+2023-04-01,Uttar Pradesh,4W,Maruti,18715
+2023-04-01,Gujarat,4W,Maruti,16636
+2023-04-01,Tamil Nadu,4W,Maruti,16636
+2023-04-01,Karnataka,4W,Maruti,15596
+2023-04-01,Delhi,4W,Maruti,15596
+2023-04-01,Maharashtra,4W,Hyundai,13757
+2023-04-01,Uttar Pradesh,4W,Hyundai,12381
+2023-04-01,Gujarat,4W,Hyundai,11006
+2023-04-01,Tamil Nadu,4W,Hyundai,11006
+2023-04-01,Karnataka,4W,Hyundai,10318
+2023-04-01,Delhi,4W,Hyundai,10318
+2023-04-01,Maharashtra,4W,Tata,11986
+2023-04-01,Uttar Pradesh,4W,Tata,10787
+2023-04-01,Gujarat,4W,Tata,9589
+2023-04-01,Tamil Nadu,4W,Tata,9589
+2023-04-01,Karnataka,4W,Tata,8989
+2023-04-01,Delhi,4W,Tata,8989
+2023-04-01,Maharashtra,4W,Kia,5356
+2023-04-01,Uttar Pradesh,4W,Kia,4821
+2023-04-01,Gujarat,4W,Kia,4285
+2023-04-01,Tamil Nadu,4W,Kia,4285
+2023-04-01,Karnataka,4W,Kia,4017
+2023-04-01,Delhi,4W,Kia,4017
+2023-04-01,Maharashtra,4W,MG,1594
+2023-04-01,Uttar Pradesh,4W,MG,1435
+2023-04-01,Gujarat,4W,MG,1276
+2023-04-01,Tamil Nadu,4W,MG,1276
+2023-04-01,Karnataka,4W,MG,1196
+2023-04-01,Delhi,4W,MG,1196
+2023-05-01,Maharashtra,2W,Hero,31200
+2023-05-01,Uttar Pradesh,2W,Hero,28080
+2023-05-01,Gujarat,2W,Hero,24960
+2023-05-01,Tamil Nadu,2W,Hero,24960
+2023-05-01,Karnataka,2W,Hero,23400
+2023-05-01,Delhi,2W,Hero,23400
+2023-05-01,Maharashtra,2W,Honda,24548
+2023-05-01,Uttar Pradesh,2W,Honda,22093
+2023-05-01,Gujarat,2W,Honda,19639
+2023-05-01,Tamil Nadu,2W,Honda,19639
+2023-05-01,Karnataka,2W,Honda,18411
+2023-05-01,Delhi,2W,Honda,18411
+2023-05-01,Maharashtra,2W,TVS,16048
+2023-05-01,Uttar Pradesh,2W,TVS,14443
+2023-05-01,Gujarat,2W,TVS,12838
+2023-05-01,Tamil Nadu,2W,TVS,12838
+2023-05-01,Karnataka,2W,TVS,12036
+2023-05-01,Delhi,2W,TVS,12036
+2023-05-01,Maharashtra,2W,Bajaj,12936
+2023-05-01,Uttar Pradesh,2W,Bajaj,11642
+2023-05-01,Gujarat,2W,Bajaj,10349
+2023-05-01,Tamil Nadu,2W,Bajaj,10349
+2023-05-01,Karnataka,2W,Bajaj,9702
+2023-05-01,Delhi,2W,Bajaj,9702
+2023-05-01,Maharashtra,3W,Mahindra,1652
+2023-05-01,Uttar Pradesh,3W,Mahindra,1487
+2023-05-01,Gujarat,3W,Mahindra,1322
+2023-05-01,Tamil Nadu,3W,Mahindra,1322
+2023-05-01,Karnataka,3W,Mahindra,1239
+2023-05-01,Delhi,3W,Mahindra,1239
+2023-05-01,Maharashtra,3W,Bajaj,2314
+2023-05-01,Uttar Pradesh,3W,Bajaj,2083
+2023-05-01,Gujarat,3W,Bajaj,1852
+2023-05-01,Tamil Nadu,3W,Bajaj,1852
+2023-05-01,Karnataka,3W,Bajaj,1736
+2023-05-01,Delhi,3W,Bajaj,1736
+2023-05-01,Maharashtra,3W,Tata,1043
+2023-05-01,Uttar Pradesh,3W,Tata,939
+2023-05-01,Gujarat,3W,Tata,835
+2023-05-01,Tamil Nadu,3W,Tata,835
+2023-05-01,Karnataka,3W,Tata,783
+2023-05-01,Delhi,3W,Tata,783
+2023-05-01,Maharashtra,4W,Maruti,20968
+2023-05-01,Uttar Pradesh,4W,Maruti,18871
+2023-05-01,Gujarat,4W,Maruti,16774
+2023-05-01,Tamil Nadu,4W,Maruti,16774
+2023-05-01,Karnataka,4W,Maruti,15726
+2023-05-01,Delhi,4W,Maruti,15726
+2023-05-01,Maharashtra,4W,Hyundai,11736
+2023-05-01,Uttar Pradesh,4W,Hyundai,10563
+2023-05-01,Gujarat,4W,Hyundai,9389
+2023-05-01,Tamil Nadu,4W,Hyundai,9389
+2023-05-01,Karnataka,4W,Hyundai,8802
+2023-05-01,Delhi,4W,Hyundai,8802
+2023-05-01,Maharashtra,4W,Tata,11869
+2023-05-01,Uttar Pradesh,4W,Tata,10682
+2023-05-01,Gujarat,4W,Tata,9495
+2023-05-01,Tamil Nadu,4W,Tata,9495
+2023-05-01,Karnataka,4W,Tata,8902
+2023-05-01,Delhi,4W,Tata,8902
+2023-05-01,Maharashtra,4W,Kia,5061
+2023-05-01,Uttar Pradesh,4W,Kia,4555
+2023-05-01,Gujarat,4W,Kia,4049
+2023-05-01,Tamil Nadu,4W,Kia,4049
+2023-05-01,Karnataka,4W,Kia,3796
+2023-05-01,Delhi,4W,Kia,3796
+2023-05-01,Maharashtra,4W,MG,1493
+2023-05-01,Uttar Pradesh,4W,MG,1344
+2023-05-01,Gujarat,4W,MG,1195
+2023-05-01,Tamil Nadu,4W,MG,1195
+2023-05-01,Karnataka,4W,MG,1120
+2023-05-01,Delhi,4W,MG,1120
+2023-06-01,Maharashtra,2W,Hero,27283
+2023-06-01,Uttar Pradesh,2W,Hero,24555
+2023-06-01,Gujarat,2W,Hero,21826
+2023-06-01,Tamil Nadu,2W,Hero,21826
+2023-06-01,Karnataka,2W,Hero,20462
+2023-06-01,Delhi,2W,Hero,20462
+2023-06-01,Maharashtra,2W,Honda,22744
+2023-06-01,Uttar Pradesh,2W,Honda,20470
+2023-06-01,Gujarat,2W,Honda,18195
+2023-06-01,Tamil Nadu,2W,Honda,18195
+2023-06-01,Karnataka,2W,Honda,17058
+2023-06-01,Delhi,2W,Honda,17058
+2023-06-01,Maharashtra,2W,TVS,18829
+2023-06-01,Uttar Pradesh,2W,TVS,16946
+2023-06-01,Gujarat,2W,TVS,15063
+2023-06-01,Tamil Nadu,2W,TVS,15063
+2023-06-01,Karnataka,2W,TVS,14122
+2023-06-01,Delhi,2W,TVS,14122
+2023-06-01,Maharashtra,2W,Bajaj,14195
+2023-06-01,Uttar Pradesh,2W,Bajaj,12776
+2023-06-01,Gujarat,2W,Bajaj,11356
+2023-06-01,Tamil Nadu,2W,Bajaj,11356
+2023-06-01,Karnataka,2W,Bajaj,10646
+2023-06-01,Delhi,2W,Bajaj,10646
+2023-06-01,Maharashtra,3W,Mahindra,1463
+2023-06-01,Uttar Pradesh,3W,Mahindra,1316
+2023-06-01,Gujarat,3W,Mahindra,1170
+2023-06-01,Tamil Nadu,3W,Mahindra,1170
+2023-06-01,Karnataka,3W,Mahindra,1097
+2023-06-01,Delhi,3W,Mahindra,1097
+2023-06-01,Maharashtra,3W,Bajaj,2242
+2023-06-01,Uttar Pradesh,3W,Bajaj,2018
+2023-06-01,Gujarat,3W,Bajaj,1794
+2023-06-01,Tamil Nadu,3W,Bajaj,1794
+2023-06-01,Karnataka,3W,Bajaj,1682
+2023-06-01,Delhi,3W,Bajaj,1682
+2023-06-01,Maharashtra,3W,Tata,911
+2023-06-01,Uttar Pradesh,3W,Tata,820
+2023-06-01,Gujarat,3W,Tata,729
+2023-06-01,Tamil Nadu,3W,Tata,729
+2023-06-01,Karnataka,3W,Tata,684
+2023-06-01,Delhi,3W,Tata,684
+2023-06-01,Maharashtra,4W,Maruti,19914
+2023-06-01,Uttar Pradesh,4W,Maruti,17922
+2023-06-01,Gujarat,4W,Maruti,15931
+2023-06-01,Tamil Nadu,4W,Maruti,15931
+2023-06-01,Karnataka,4W,Maruti,14935
+2023-06-01,Delhi,4W,Maruti,14935
+2023-06-01,Maharashtra,4W,Hyundai,13260
+2023-06-01,Uttar Pradesh,4W,Hyundai,11934
+2023-06-01,Gujarat,4W,Hyundai,10608
+2023-06-01,Tamil Nadu,4W,Hyundai,10608
+2023-06-01,Karnataka,4W,Hyundai,9945
+2023-06-01,Delhi,4W,Hyundai,9945
+2023-06-01,Maharashtra,4W,Tata,11082
+2023-06-01,Uttar Pradesh,4W,Tata,9974
+2023-06-01,Gujarat,4W,Tata,8866
+2023-06-01,Tamil Nadu,4W,Tata,8866
+2023-06-01,Karnataka,4W,Tata,8312
+2023-06-01,Delhi,4W,Tata,8312
+2023-06-01,Maharashtra,4W,Kia,4915
+2023-06-01,Uttar Pradesh,4W,Kia,4423
+2023-06-01,Gujarat,4W,Kia,3932
+2023-06-01,Tamil Nadu,4W,Kia,3932
+2023-06-01,Karnataka,4W,Kia,3686
+2023-06-01,Delhi,4W,Kia,3686
+2023-06-01,Maharashtra,4W,MG,1545
+2023-06-01,Uttar Pradesh,4W,MG,1390
+2023-06-01,Gujarat,4W,MG,1236
+2023-06-01,Tamil Nadu,4W,MG,1236
+2023-06-01,Karnataka,4W,MG,1159
+2023-06-01,Delhi,4W,MG,1159
+2023-07-01,Maharashtra,2W,Hero,29371
+2023-07-01,Uttar Pradesh,2W,Hero,26434
+2023-07-01,Gujarat,2W,Hero,23496
+2023-07-01,Tamil Nadu,2W,Hero,23496
+2023-07-01,Karnataka,2W,Hero,22028
+2023-07-01,Delhi,2W,Hero,22028
+2023-07-01,Maharashtra,2W,Honda,25637
+2023-07-01,Uttar Pradesh,2W,Honda,23073
+2023-07-01,Gujarat,2W,Honda,20510
+2023-07-01,Tamil Nadu,2W,Honda,20510
+2023-07-01,Karnataka,2W,Honda,19228
+2023-07-01,Delhi,2W,Honda,19228
+2023-07-01,Maharashtra,2W,TVS,17445
+2023-07-01,Uttar Pradesh,2W,TVS,15701
+2023-07-01,Gujarat,2W,TVS,13956
+2023-07-01,Tamil Nadu,2W,TVS,13956
+2023-07-01,Karnataka,2W,TVS,13084
+2023-07-01,Delhi,2W,TVS,13084
+2023-07-01,Maharashtra,2W,Bajaj,14751
+2023-07-01,Uttar Pradesh,2W,Bajaj,13276
+2023-07-01,Gujarat,2W,Bajaj,11801
+2023-07-01,Tamil Nadu,2W,Bajaj,11801
+2023-07-01,Karnataka,2W,Bajaj,11064
+2023-07-01,Delhi,2W,Bajaj,11064
+2023-07-01,Maharashtra,3W,Mahindra,1547
+2023-07-01,Uttar Pradesh,3W,Mahindra,1392
+2023-07-01,Gujarat,3W,Mahindra,1237
+2023-07-01,Tamil Nadu,3W,Mahindra,1237
+2023-07-01,Karnataka,3W,Mahindra,1160
+2023-07-01,Delhi,3W,Mahindra,1160
+2023-07-01,Maharashtra,3W,Bajaj,2441
+2023-07-01,Uttar Pradesh,3W,Bajaj,2197
+2023-07-01,Gujarat,3W,Bajaj,1952
+2023-07-01,Tamil Nadu,3W,Bajaj,1952
+2023-07-01,Karnataka,3W,Bajaj,1830
+2023-07-01,Delhi,3W,Bajaj,1830
+2023-07-01,Maharashtra,3W,Tata,983
+2023-07-01,Uttar Pradesh,3W,Tata,884
+2023-07-01,Gujarat,3W,Tata,786
+2023-07-01,Tamil Nadu,3W,Tata,786
+2023-07-01,Karnataka,3W,Tata,737
+2023-07-01,Delhi,3W,Tata,737
+2023-07-01,Maharashtra,4W,Maruti,21825
+2023-07-01,Uttar Pradesh,4W,Maruti,19643
+2023-07-01,Gujarat,4W,Maruti,17460
+2023-07-01,Tamil Nadu,4W,Maruti,17460
+2023-07-01,Karnataka,4W,Maruti,16369
+2023-07-01,Delhi,4W,Maruti,16369
+2023-07-01,Maharashtra,4W,Hyundai,14399
+2023-07-01,Uttar Pradesh,4W,Hyundai,12959
+2023-07-01,Gujarat,4W,Hyundai,11519
+2023-07-01,Tamil Nadu,4W,Hyundai,11519
+2023-07-01,Karnataka,4W,Hyundai,10799
+2023-07-01,Delhi,4W,Hyundai,10799
+2023-07-01,Maharashtra,4W,Tata,12960
+2023-07-01,Uttar Pradesh,4W,Tata,11664
+2023-07-01,Gujarat,4W,Tata,10368
+2023-07-01,Tamil Nadu,4W,Tata,10368
+2023-07-01,Karnataka,4W,Tata,9720
+2023-07-01,Delhi,4W,Tata,9720
+2023-07-01,Maharashtra,4W,Kia,4989
+2023-07-01,Uttar Pradesh,4W,Kia,4490
+2023-07-01,Gujarat,4W,Kia,3991
+2023-07-01,Tamil Nadu,4W,Kia,3991
+2023-07-01,Karnataka,4W,Kia,3741
+2023-07-01,Delhi,4W,Kia,3741
+2023-07-01,Maharashtra,4W,MG,1749
+2023-07-01,Uttar Pradesh,4W,MG,1574
+2023-07-01,Gujarat,4W,MG,1400
+2023-07-01,Tamil Nadu,4W,MG,1400
+2023-07-01,Karnataka,4W,MG,1312
+2023-07-01,Delhi,4W,MG,1312
+2023-08-01,Maharashtra,2W,Hero,29613
+2023-08-01,Uttar Pradesh,2W,Hero,26652
+2023-08-01,Gujarat,2W,Hero,23690
+2023-08-01,Tamil Nadu,2W,Hero,23690
+2023-08-01,Karnataka,2W,Hero,22210
+2023-08-01,Delhi,2W,Hero,22210
+2023-08-01,Maharashtra,2W,Honda,24420
+2023-08-01,Uttar Pradesh,2W,Honda,21978
+2023-08-01,Gujarat,2W,Honda,19536
+2023-08-01,Tamil Nadu,2W,Honda,19536
+2023-08-01,Karnataka,2W,Honda,18315
+2023-08-01,Delhi,2W,Honda,18315
+2023-08-01,Maharashtra,2W,TVS,19686
+2023-08-01,Uttar Pradesh,2W,TVS,17718
+2023-08-01,Gujarat,2W,TVS,15749
+2023-08-01,Tamil Nadu,2W,TVS,15749
+2023-08-01,Karnataka,2W,TVS,14765
+2023-08-01,Delhi,2W,TVS,14765
+2023-08-01,Maharashtra,2W,Bajaj,14819
+2023-08-01,Uttar Pradesh,2W,Bajaj,13337
+2023-08-01,Gujarat,2W,Bajaj,11855
+2023-08-01,Tamil Nadu,2W,Bajaj,11855
+2023-08-01,Karnataka,2W,Bajaj,11114
+2023-08-01,Delhi,2W,Bajaj,11114
+2023-08-01,Maharashtra,3W,Mahindra,1550
+2023-08-01,Uttar Pradesh,3W,Mahindra,1395
+2023-08-01,Gujarat,3W,Mahindra,1240
+2023-08-01,Tamil Nadu,3W,Mahindra,1240
+2023-08-01,Karnataka,3W,Mahindra,1162
+2023-08-01,Delhi,3W,Mahindra,1162
+2023-08-01,Maharashtra,3W,Bajaj,2678
+2023-08-01,Uttar Pradesh,3W,Bajaj,2411
+2023-08-01,Gujarat,3W,Bajaj,2143
+2023-08-01,Tamil Nadu,3W,Bajaj,2143
+2023-08-01,Karnataka,3W,Bajaj,2009
+2023-08-01,Delhi,3W,Bajaj,2009
+2023-08-01,Maharashtra,3W,Tata,987
+2023-08-01,Uttar Pradesh,3W,Tata,889
+2023-08-01,Gujarat,3W,Tata,790
+2023-08-01,Tamil Nadu,3W,Tata,790
+2023-08-01,Karnataka,3W,Tata,741
+2023-08-01,Delhi,3W,Tata,741
+2023-08-01,Maharashtra,4W,Maruti,21889
+2023-08-01,Uttar Pradesh,4W,Maruti,19700
+2023-08-01,Gujarat,4W,Maruti,17511
+2023-08-01,Tamil Nadu,4W,Maruti,17511
+2023-08-01,Karnataka,4W,Maruti,16417
+2023-08-01,Delhi,4W,Maruti,16417
+2023-08-01,Maharashtra,4W,Hyundai,14042
+2023-08-01,Uttar Pradesh,4W,Hyundai,12638
+2023-08-01,Gujarat,4W,Hyundai,11234
+2023-08-01,Tamil Nadu,4W,Hyundai,11234
+2023-08-01,Karnataka,4W,Hyundai,10532
+2023-08-01,Delhi,4W,Hyundai,10532
+2023-08-01,Maharashtra,4W,Tata,12080
+2023-08-01,Uttar Pradesh,4W,Tata,10872
+2023-08-01,Gujarat,4W,Tata,9664
+2023-08-01,Tamil Nadu,4W,Tata,9664
+2023-08-01,Karnataka,4W,Tata,9060
+2023-08-01,Delhi,4W,Tata,9060
+2023-08-01,Maharashtra,4W,Kia,5006
+2023-08-01,Uttar Pradesh,4W,Kia,4506
+2023-08-01,Gujarat,4W,Kia,4005
+2023-08-01,Tamil Nadu,4W,Kia,4005
+2023-08-01,Karnataka,4W,Kia,3755
+2023-08-01,Delhi,4W,Kia,3755
+2023-08-01,Maharashtra,4W,MG,1543
+2023-08-01,Uttar Pradesh,4W,MG,1389
+2023-08-01,Gujarat,4W,MG,1234
+2023-08-01,Tamil Nadu,4W,MG,1234
+2023-08-01,Karnataka,4W,MG,1157
+2023-08-01,Delhi,4W,MG,1157
+2023-09-01,Maharashtra,2W,Hero,30611
+2023-09-01,Uttar Pradesh,2W,Hero,27550
+2023-09-01,Gujarat,2W,Hero,24489
+2023-09-01,Tamil Nadu,2W,Hero,24489
+2023-09-01,Karnataka,2W,Hero,22959
+2023-09-01,Delhi,2W,Hero,22959
+2023-09-01,Maharashtra,2W,Honda,26555
+2023-09-01,Uttar Pradesh,2W,Honda,23899
+2023-09-01,Gujarat,2W,Honda,21244
+2023-09-01,Tamil Nadu,2W,Honda,21244
+2023-09-01,Karnataka,2W,Honda,19916
+2023-09-01,Delhi,2W,Honda,19916
+2023-09-01,Maharashtra,2W,TVS,18848
+2023-09-01,Uttar Pradesh,2W,TVS,16963
+2023-09-01,Gujarat,2W,TVS,15078
+2023-09-01,Tamil Nadu,2W,TVS,15078
+2023-09-01,Karnataka,2W,TVS,14136
+2023-09-01,Delhi,2W,TVS,14136
+2023-09-01,Maharashtra,2W,Bajaj,15536
+2023-09-01,Uttar Pradesh,2W,Bajaj,13982
+2023-09-01,Gujarat,2W,Bajaj,12428
+2023-09-01,Tamil Nadu,2W,Bajaj,12428
+2023-09-01,Karnataka,2W,Bajaj,11652
+2023-09-01,Delhi,2W,Bajaj,11652
+2023-09-01,Maharashtra,3W,Mahindra,1711
+2023-09-01,Uttar Pradesh,3W,Mahindra,1540
+2023-09-01,Gujarat,3W,Mahindra,1369
+2023-09-01,Tamil Nadu,3W,Mahindra,1369
+2023-09-01,Karnataka,3W,Mahindra,1283
+2023-09-01,Delhi,3W,Mahindra,1283
+2023-09-01,Maharashtra,3W,Bajaj,2601
+2023-09-01,Uttar Pradesh,3W,Bajaj,2341
+2023-09-01,Gujarat,3W,Bajaj,2081
+2023-09-01,Tamil Nadu,3W,Bajaj,2081
+2023-09-01,Karnataka,3W,Bajaj,1951
+2023-09-01,Delhi,3W,Bajaj,1951
+2023-09-01,Maharashtra,3W,Tata,1172
+2023-09-01,Uttar Pradesh,3W,Tata,1055
+2023-09-01,Gujarat,3W,Tata,938
+2023-09-01,Tamil Nadu,3W,Tata,938
+2023-09-01,Karnataka,3W,Tata,879
+2023-09-01,Delhi,3W,Tata,879
+2023-09-01,Maharashtra,4W,Maruti,23961
+2023-09-01,Uttar Pradesh,4W,Maruti,21565
+2023-09-01,Gujarat,4W,Maruti,19169
+2023-09-01,Tamil Nadu,4W,Maruti,19169
+2023-09-01,Karnataka,4W,Maruti,17971
+2023-09-01,Delhi,4W,Maruti,17971
+2023-09-01,Maharashtra,4W,Hyundai,14365
+2023-09-01,Uttar Pradesh,4W,Hyundai,12929
+2023-09-01,Gujarat,4W,Hyundai,11492
+2023-09-01,Tamil Nadu,4W,Hyundai,11492
+2023-09-01,Karnataka,4W,Hyundai,10774
+2023-09-01,Delhi,4W,Hyundai,10774
+2023-09-01,Maharashtra,4W,Tata,13872
+2023-09-01,Uttar Pradesh,4W,Tata,12485
+2023-09-01,Gujarat,4W,Tata,11098
+2023-09-01,Tamil Nadu,4W,Tata,11098
+2023-09-01,Karnataka,4W,Tata,10404
+2023-09-01,Delhi,4W,Tata,10404
+2023-09-01,Maharashtra,4W,Kia,5183
+2023-09-01,Uttar Pradesh,4W,Kia,4665
+2023-09-01,Gujarat,4W,Kia,4146
+2023-09-01,Tamil Nadu,4W,Kia,4146
+2023-09-01,Karnataka,4W,Kia,3887
+2023-09-01,Delhi,4W,Kia,3887
+2023-09-01,Maharashtra,4W,MG,1650
+2023-09-01,Uttar Pradesh,4W,MG,1485
+2023-09-01,Gujarat,4W,MG,1320
+2023-09-01,Tamil Nadu,4W,MG,1320
+2023-09-01,Karnataka,4W,MG,1238
+2023-09-01,Delhi,4W,MG,1238
+2023-10-01,Maharashtra,2W,Hero,35068
+2023-10-01,Uttar Pradesh,2W,Hero,31562
+2023-10-01,Gujarat,2W,Hero,28055
+2023-10-01,Tamil Nadu,2W,Hero,28055
+2023-10-01,Karnataka,2W,Hero,26301
+2023-10-01,Delhi,2W,Hero,26301
+2023-10-01,Maharashtra,2W,Honda,27673
+2023-10-01,Uttar Pradesh,2W,Honda,24906
+2023-10-01,Gujarat,2W,Honda,22138
+2023-10-01,Tamil Nadu,2W,Honda,22138
+2023-10-01,Karnataka,2W,Honda,20755
+2023-10-01,Delhi,2W,Honda,20755
+2023-10-01,Maharashtra,2W,TVS,18959
+2023-10-01,Uttar Pradesh,2W,TVS,17063
+2023-10-01,Gujarat,2W,TVS,15167
+2023-10-01,Tamil Nadu,2W,TVS,15167
+2023-10-01,Karnataka,2W,TVS,14219
+2023-10-01,Delhi,2W,TVS,14219
+2023-10-01,Maharashtra,2W,Bajaj,14599
+2023-10-01,Uttar Pradesh,2W,Bajaj,13139
+2023-10-01,Gujarat,2W,Bajaj,11679
+2023-10-01,Tamil Nadu,2W,Bajaj,11679
+2023-10-01,Karnataka,2W,Bajaj,10949
+2023-10-01,Delhi,2W,Bajaj,10949
+2023-10-01,Maharashtra,3W,Mahindra,1823
+2023-10-01,Uttar Pradesh,3W,Mahindra,1641
+2023-10-01,Gujarat,3W,Mahindra,1458
+2023-10-01,Tamil Nadu,3W,Mahindra,1458
+2023-10-01,Karnataka,3W,Mahindra,1367
+2023-10-01,Delhi,3W,Mahindra,1367
+2023-10-01,Maharashtra,3W,Bajaj,2819
+2023-10-01,Uttar Pradesh,3W,Bajaj,2537
+2023-10-01,Gujarat,3W,Bajaj,2255
+2023-10-01,Tamil Nadu,3W,Bajaj,2255
+2023-10-01,Karnataka,3W,Bajaj,2114
+2023-10-01,Delhi,3W,Bajaj,2114
+2023-10-01,Maharashtra,3W,Tata,1044
+2023-10-01,Uttar Pradesh,3W,Tata,939
+2023-10-01,Gujarat,3W,Tata,835
+2023-10-01,Tamil Nadu,3W,Tata,835
+2023-10-01,Karnataka,3W,Tata,783
+2023-10-01,Delhi,3W,Tata,783
+2023-10-01,Maharashtra,4W,Maruti,25878
+2023-10-01,Uttar Pradesh,4W,Maruti,23290
+2023-10-01,Gujarat,4W,Maruti,20702
+2023-10-01,Tamil Nadu,4W,Maruti,20702
+2023-10-01,Karnataka,4W,Maruti,19408
+2023-10-01,Delhi,4W,Maruti,19408
+2023-10-01,Maharashtra,4W,Hyundai,15136
+2023-10-01,Uttar Pradesh,4W,Hyundai,13623
+2023-10-01,Gujarat,4W,Hyundai,12109
+2023-10-01,Tamil Nadu,4W,Hyundai,12109
+2023-10-01,Karnataka,4W,Hyundai,11352
+2023-10-01,Delhi,4W,Hyundai,11352
+2023-10-01,Maharashtra,4W,Tata,13385
+2023-10-01,Uttar Pradesh,4W,Tata,12046
+2023-10-01,Gujarat,4W,Tata,10708
+2023-10-01,Tamil Nadu,4W,Tata,10708
+2023-10-01,Karnataka,4W,Tata,10039
+2023-10-01,Delhi,4W,Tata,10039
+2023-10-01,Maharashtra,4W,Kia,5417
+2023-10-01,Uttar Pradesh,4W,Kia,4875
+2023-10-01,Gujarat,4W,Kia,4334
+2023-10-01,Tamil Nadu,4W,Kia,4334
+2023-10-01,Karnataka,4W,Kia,4063
+2023-10-01,Delhi,4W,Kia,4063
+2023-10-01,Maharashtra,4W,MG,1644
+2023-10-01,Uttar Pradesh,4W,MG,1480
+2023-10-01,Gujarat,4W,MG,1315
+2023-10-01,Tamil Nadu,4W,MG,1315
+2023-10-01,Karnataka,4W,MG,1233
+2023-10-01,Delhi,4W,MG,1233
+2023-11-01,Maharashtra,2W,Hero,30634
+2023-11-01,Uttar Pradesh,2W,Hero,27570
+2023-11-01,Gujarat,2W,Hero,24507
+2023-11-01,Tamil Nadu,2W,Hero,24507
+2023-11-01,Karnataka,2W,Hero,22975
+2023-11-01,Delhi,2W,Hero,22975
+2023-11-01,Maharashtra,2W,Honda,28419
+2023-11-01,Uttar Pradesh,2W,Honda,25577
+2023-11-01,Gujarat,2W,Honda,22735
+2023-11-01,Tamil Nadu,2W,Honda,22735
+2023-11-01,Karnataka,2W,Honda,21314
+2023-11-01,Delhi,2W,Honda,21314
+2023-11-01,Maharashtra,2W,TVS,19014
+2023-11-01,Uttar Pradesh,2W,TVS,17113
+2023-11-01,Gujarat,2W,TVS,15211
+2023-11-01,Tamil Nadu,2W,TVS,15211
+2023-11-01,Karnataka,2W,TVS,14261
+2023-11-01,Delhi,2W,TVS,14261
+2023-11-01,Maharashtra,2W,Bajaj,15940
+2023-11-01,Uttar Pradesh,2W,Bajaj,14346
+2023-11-01,Gujarat,2W,Bajaj,12752
+2023-11-01,Tamil Nadu,2W,Bajaj,12752
+2023-11-01,Karnataka,2W,Bajaj,11955
+2023-11-01,Delhi,2W,Bajaj,11955
+2023-11-01,Maharashtra,3W,Mahindra,1695
+2023-11-01,Uttar Pradesh,3W,Mahindra,1526
+2023-11-01,Gujarat,3W,Mahindra,1356
+2023-11-01,Tamil Nadu,3W,Mahindra,1356
+2023-11-01,Karnataka,3W,Mahindra,1272
+2023-11-01,Delhi,3W,Mahindra,1272
+2023-11-01,Maharashtra,3W,Bajaj,2783
+2023-11-01,Uttar Pradesh,3W,Bajaj,2505
+2023-11-01,Gujarat,3W,Bajaj,2226
+2023-11-01,Tamil Nadu,3W,Bajaj,2226
+2023-11-01,Karnataka,3W,Bajaj,2087
+2023-11-01,Delhi,3W,Bajaj,2087
+2023-11-01,Maharashtra,3W,Tata,1119
+2023-11-01,Uttar Pradesh,3W,Tata,1007
+2023-11-01,Gujarat,3W,Tata,896
+2023-11-01,Tamil Nadu,3W,Tata,896
+2023-11-01,Karnataka,3W,Tata,840
+2023-11-01,Delhi,3W,Tata,840
+2023-11-01,Maharashtra,4W,Maruti,23453
+2023-11-01,Uttar Pradesh,4W,Maruti,21108
+2023-11-01,Gujarat,4W,Maruti,18763
+2023-11-01,Tamil Nadu,4W,Maruti,18763
+2023-11-01,Karnataka,4W,Maruti,17590
+2023-11-01,Delhi,4W,Maruti,17590
+2023-11-01,Maharashtra,4W,Hyundai,13588
+2023-11-01,Uttar Pradesh,4W,Hyundai,12229
+2023-11-01,Gujarat,4W,Hyundai,10871
+2023-11-01,Tamil Nadu,4W,Hyundai,10871
+2023-11-01,Karnataka,4W,Hyundai,10191
+2023-11-01,Delhi,4W,Hyundai,10191
+2023-11-01,Maharashtra,4W,Tata,13696
+2023-11-01,Uttar Pradesh,4W,Tata,12327
+2023-11-01,Gujarat,4W,Tata,10957
+2023-11-01,Tamil Nadu,4W,Tata,10957
+2023-11-01,Karnataka,4W,Tata,10272
+2023-11-01,Delhi,4W,Tata,10272
+2023-11-01,Maharashtra,4W,Kia,5132
+2023-11-01,Uttar Pradesh,4W,Kia,4619
+2023-11-01,Gujarat,4W,Kia,4106
+2023-11-01,Tamil Nadu,4W,Kia,4106
+2023-11-01,Karnataka,4W,Kia,3849
+2023-11-01,Delhi,4W,Kia,3849
+2023-11-01,Maharashtra,4W,MG,1687
+2023-11-01,Uttar Pradesh,4W,MG,1518
+2023-11-01,Gujarat,4W,MG,1350
+2023-11-01,Tamil Nadu,4W,MG,1350
+2023-11-01,Karnataka,4W,MG,1265
+2023-11-01,Delhi,4W,MG,1265
+2023-12-01,Maharashtra,2W,Hero,31951
+2023-12-01,Uttar Pradesh,2W,Hero,28756
+2023-12-01,Gujarat,2W,Hero,25560
+2023-12-01,Tamil Nadu,2W,Hero,25560
+2023-12-01,Karnataka,2W,Hero,23963
+2023-12-01,Delhi,2W,Hero,23963
+2023-12-01,Maharashtra,2W,Honda,26748
+2023-12-01,Uttar Pradesh,2W,Honda,24073
+2023-12-01,Gujarat,2W,Honda,21398
+2023-12-01,Tamil Nadu,2W,Honda,21398
+2023-12-01,Karnataka,2W,Honda,20061
+2023-12-01,Delhi,2W,Honda,20061
+2023-12-01,Maharashtra,2W,TVS,19337
+2023-12-01,Uttar Pradesh,2W,TVS,17403
+2023-12-01,Gujarat,2W,TVS,15470
+2023-12-01,Tamil Nadu,2W,TVS,15470
+2023-12-01,Karnataka,2W,TVS,14503
+2023-12-01,Delhi,2W,TVS,14503
+2023-12-01,Maharashtra,2W,Bajaj,14251
+2023-12-01,Uttar Pradesh,2W,Bajaj,12826
+2023-12-01,Gujarat,2W,Bajaj,11400
+2023-12-01,Tamil Nadu,2W,Bajaj,11400
+2023-12-01,Karnataka,2W,Bajaj,10688
+2023-12-01,Delhi,2W,Bajaj,10688
+2023-12-01,Maharashtra,3W,Mahindra,1801
+2023-12-01,Uttar Pradesh,3W,Mahindra,1621
+2023-12-01,Gujarat,3W,Mahindra,1440
+2023-12-01,Tamil Nadu,3W,Mahindra,1440
+2023-12-01,Karnataka,3W,Mahindra,1350
+2023-12-01,Delhi,3W,Mahindra,1350
+2023-12-01,Maharashtra,3W,Bajaj,2412
+2023-12-01,Uttar Pradesh,3W,Bajaj,2171
+2023-12-01,Gujarat,3W,Bajaj,1930
+2023-12-01,Tamil Nadu,3W,Bajaj,1930
+2023-12-01,Karnataka,3W,Bajaj,1809
+2023-12-01,Delhi,3W,Bajaj,1809
+2023-12-01,Maharashtra,3W,Tata,973
+2023-12-01,Uttar Pradesh,3W,Tata,876
+2023-12-01,Gujarat,3W,Tata,779
+2023-12-01,Tamil Nadu,3W,Tata,779
+2023-12-01,Karnataka,3W,Tata,730
+2023-12-01,Delhi,3W,Tata,730
+2023-12-01,Maharashtra,4W,Maruti,22353
+2023-12-01,Uttar Pradesh,4W,Maruti,20118
+2023-12-01,Gujarat,4W,Maruti,17882
+2023-12-01,Tamil Nadu,4W,Maruti,17882
+2023-12-01,Karnataka,4W,Maruti,16765
+2023-12-01,Delhi,4W,Maruti,16765
+2023-12-01,Maharashtra,4W,Hyundai,13596
+2023-12-01,Uttar Pradesh,4W,Hyundai,12236
+2023-12-01,Gujarat,4W,Hyundai,10877
+2023-12-01,Tamil Nadu,4W,Hyundai,10877
+2023-12-01,Karnataka,4W,Hyundai,10197
+2023-12-01,Delhi,4W,Hyundai,10197
+2023-12-01,Maharashtra,4W,Tata,11770
+2023-12-01,Uttar Pradesh,4W,Tata,10593
+2023-12-01,Gujarat,4W,Tata,9416
+2023-12-01,Tamil Nadu,4W,Tata,9416
+2023-12-01,Karnataka,4W,Tata,8827
+2023-12-01,Delhi,4W,Tata,8827
+2023-12-01,Maharashtra,4W,Kia,5002
+2023-12-01,Uttar Pradesh,4W,Kia,4501
+2023-12-01,Gujarat,4W,Kia,4001
+2023-12-01,Tamil Nadu,4W,Kia,4001
+2023-12-01,Karnataka,4W,Kia,3751
+2023-12-01,Delhi,4W,Kia,3751
+2023-12-01,Maharashtra,4W,MG,1652
+2023-12-01,Uttar Pradesh,4W,MG,1487
+2023-12-01,Gujarat,4W,MG,1322
+2023-12-01,Tamil Nadu,4W,MG,1322
+2023-12-01,Karnataka,4W,MG,1239
+2023-12-01,Delhi,4W,MG,1239
+2024-01-01,Maharashtra,2W,Hero,32167
+2024-01-01,Uttar Pradesh,2W,Hero,28950
+2024-01-01,Gujarat,2W,Hero,25734
+2024-01-01,Tamil Nadu,2W,Hero,25734
+2024-01-01,Karnataka,2W,Hero,24125
+2024-01-01,Delhi,2W,Hero,24125
+2024-01-01,Maharashtra,2W,Honda,23940
+2024-01-01,Uttar Pradesh,2W,Honda,21546
+2024-01-01,Gujarat,2W,Honda,19152
+2024-01-01,Tamil Nadu,2W,Honda,19152
+2024-01-01,Karnataka,2W,Honda,17955
+2024-01-01,Delhi,2W,Honda,17955
+2024-01-01,Maharashtra,2W,TVS,18659
+2024-01-01,Uttar Pradesh,2W,TVS,16793
+2024-01-01,Gujarat,2W,TVS,14927
+2024-01-01,Tamil Nadu,2W,TVS,14927
+2024-01-01,Karnataka,2W,TVS,13994
+2024-01-01,Delhi,2W,TVS,13994
+2024-01-01,Maharashtra,2W,Bajaj,15768
+2024-01-01,Uttar Pradesh,2W,Bajaj,14191
+2024-01-01,Gujarat,2W,Bajaj,12615
+2024-01-01,Tamil Nadu,2W,Bajaj,12615
+2024-01-01,Karnataka,2W,Bajaj,11826
+2024-01-01,Delhi,2W,Bajaj,11826
+2024-01-01,Maharashtra,3W,Mahindra,1826
+2024-01-01,Uttar Pradesh,3W,Mahindra,1644
+2024-01-01,Gujarat,3W,Mahindra,1461
+2024-01-01,Tamil Nadu,3W,Mahindra,1461
+2024-01-01,Karnataka,3W,Mahindra,1370
+2024-01-01,Delhi,3W,Mahindra,1370
+2024-01-01,Maharashtra,3W,Bajaj,2608
+2024-01-01,Uttar Pradesh,3W,Bajaj,2347
+2024-01-01,Gujarat,3W,Bajaj,2086
+2024-01-01,Tamil Nadu,3W,Bajaj,2086
+2024-01-01,Karnataka,3W,Bajaj,1956
+2024-01-01,Delhi,3W,Bajaj,1956
+2024-01-01,Maharashtra,3W,Tata,1092
+2024-01-01,Uttar Pradesh,3W,Tata,983
+2024-01-01,Gujarat,3W,Tata,874
+2024-01-01,Tamil Nadu,3W,Tata,874
+2024-01-01,Karnataka,3W,Tata,819
+2024-01-01,Delhi,3W,Tata,819
+2024-01-01,Maharashtra,4W,Maruti,23635
+2024-01-01,Uttar Pradesh,4W,Maruti,21272
+2024-01-01,Gujarat,4W,Maruti,18908
+2024-01-01,Tamil Nadu,4W,Maruti,18908
+2024-01-01,Karnataka,4W,Maruti,17726
+2024-01-01,Delhi,4W,Maruti,17726
+2024-01-01,Maharashtra,4W,Hyundai,12987
+2024-01-01,Uttar Pradesh,4W,Hyundai,11688
+2024-01-01,Gujarat,4W,Hyundai,10390
+2024-01-01,Tamil Nadu,4W,Hyundai,10390
+2024-01-01,Karnataka,4W,Hyundai,9740
+2024-01-01,Delhi,4W,Hyundai,9740
+2024-01-01,Maharashtra,4W,Tata,11774
+2024-01-01,Uttar Pradesh,4W,Tata,10596
+2024-01-01,Gujarat,4W,Tata,9419
+2024-01-01,Tamil Nadu,4W,Tata,9419
+2024-01-01,Karnataka,4W,Tata,8830
+2024-01-01,Delhi,4W,Tata,8830
+2024-01-01,Maharashtra,4W,Kia,4891
+2024-01-01,Uttar Pradesh,4W,Kia,4402
+2024-01-01,Gujarat,4W,Kia,3913
+2024-01-01,Tamil Nadu,4W,Kia,3913
+2024-01-01,Karnataka,4W,Kia,3668
+2024-01-01,Delhi,4W,Kia,3668
+2024-01-01,Maharashtra,4W,MG,1807
+2024-01-01,Uttar Pradesh,4W,MG,1626
+2024-01-01,Gujarat,4W,MG,1446
+2024-01-01,Tamil Nadu,4W,MG,1446
+2024-01-01,Karnataka,4W,MG,1355
+2024-01-01,Delhi,4W,MG,1355
+2024-02-01,Maharashtra,2W,Hero,32977
+2024-02-01,Uttar Pradesh,2W,Hero,29679
+2024-02-01,Gujarat,2W,Hero,26382
+2024-02-01,Tamil Nadu,2W,Hero,26382
+2024-02-01,Karnataka,2W,Hero,24733
+2024-02-01,Delhi,2W,Hero,24733
+2024-02-01,Maharashtra,2W,Honda,27452
+2024-02-01,Uttar Pradesh,2W,Honda,24707
+2024-02-01,Gujarat,2W,Honda,21962
+2024-02-01,Tamil Nadu,2W,Honda,21962
+2024-02-01,Karnataka,2W,Honda,20589
+2024-02-01,Delhi,2W,Honda,20589
+2024-02-01,Maharashtra,2W,TVS,17702
+2024-02-01,Uttar Pradesh,2W,TVS,15931
+2024-02-01,Gujarat,2W,TVS,14161
+2024-02-01,Tamil Nadu,2W,TVS,14161
+2024-02-01,Karnataka,2W,TVS,13276
+2024-02-01,Delhi,2W,TVS,13276
+2024-02-01,Maharashtra,2W,Bajaj,15235
+2024-02-01,Uttar Pradesh,2W,Bajaj,13711
+2024-02-01,Gujarat,2W,Bajaj,12188
+2024-02-01,Tamil Nadu,2W,Bajaj,12188
+2024-02-01,Karnataka,2W,Bajaj,11426
+2024-02-01,Delhi,2W,Bajaj,11426
+2024-02-01,Maharashtra,3W,Mahindra,1699
+2024-02-01,Uttar Pradesh,3W,Mahindra,1529
+2024-02-01,Gujarat,3W,Mahindra,1359
+2024-02-01,Tamil Nadu,3W,Mahindra,1359
+2024-02-01,Karnataka,3W,Mahindra,1274
+2024-02-01,Delhi,3W,Mahindra,1274
+2024-02-01,Maharashtra,3W,Bajaj,2650
+2024-02-01,Uttar Pradesh,3W,Bajaj,2385
+2024-02-01,Gujarat,3W,Bajaj,2120
+2024-02-01,Tamil Nadu,3W,Bajaj,2120
+2024-02-01,Karnataka,3W,Bajaj,1988
+2024-02-01,Delhi,3W,Bajaj,1988
+2024-02-01,Maharashtra,3W,Tata,1034
+2024-02-01,Uttar Pradesh,3W,Tata,931
+2024-02-01,Gujarat,3W,Tata,827
+2024-02-01,Tamil Nadu,3W,Tata,827
+2024-02-01,Karnataka,3W,Tata,776
+2024-02-01,Delhi,3W,Tata,776
+2024-02-01,Maharashtra,4W,Maruti,25302
+2024-02-01,Uttar Pradesh,4W,Maruti,22772
+2024-02-01,Gujarat,4W,Maruti,20241
+2024-02-01,Tamil Nadu,4W,Maruti,20241
+2024-02-01,Karnataka,4W,Maruti,18976
+2024-02-01,Delhi,4W,Maruti,18976
+2024-02-01,Maharashtra,4W,Hyundai,12904
+2024-02-01,Uttar Pradesh,4W,Hyundai,11614
+2024-02-01,Gujarat,4W,Hyundai,10323
+2024-02-01,Tamil Nadu,4W,Hyundai,10323
+2024-02-01,Karnataka,4W,Hyundai,9678
+2024-02-01,Delhi,4W,Hyundai,9678
+2024-02-01,Maharashtra,4W,Tata,12874
+2024-02-01,Uttar Pradesh,4W,Tata,11587
+2024-02-01,Gujarat,4W,Tata,10299
+2024-02-01,Tamil Nadu,4W,Tata,10299
+2024-02-01,Karnataka,4W,Tata,9656
+2024-02-01,Delhi,4W,Tata,9656
+2024-02-01,Maharashtra,4W,Kia,5527
+2024-02-01,Uttar Pradesh,4W,Kia,4974
+2024-02-01,Gujarat,4W,Kia,4421
+2024-02-01,Tamil Nadu,4W,Kia,4421
+2024-02-01,Karnataka,4W,Kia,4145
+2024-02-01,Delhi,4W,Kia,4145
+2024-02-01,Maharashtra,4W,MG,1813
+2024-02-01,Uttar Pradesh,4W,MG,1632
+2024-02-01,Gujarat,4W,MG,1450
+2024-02-01,Tamil Nadu,4W,MG,1450
+2024-02-01,Karnataka,4W,MG,1360
+2024-02-01,Delhi,4W,MG,1360
+2024-03-01,Maharashtra,2W,Hero,33318
+2024-03-01,Uttar Pradesh,2W,Hero,29986
+2024-03-01,Gujarat,2W,Hero,26654
+2024-03-01,Tamil Nadu,2W,Hero,26654
+2024-03-01,Karnataka,2W,Hero,24988
+2024-03-01,Delhi,2W,Hero,24988
+2024-03-01,Maharashtra,2W,Honda,26517
+2024-03-01,Uttar Pradesh,2W,Honda,23865
+2024-03-01,Gujarat,2W,Honda,21213
+2024-03-01,Tamil Nadu,2W,Honda,21213
+2024-03-01,Karnataka,2W,Honda,19888
+2024-03-01,Delhi,2W,Honda,19888
+2024-03-01,Maharashtra,2W,TVS,20164
+2024-03-01,Uttar Pradesh,2W,TVS,18147
+2024-03-01,Gujarat,2W,TVS,16131
+2024-03-01,Tamil Nadu,2W,TVS,16131
+2024-03-01,Karnataka,2W,TVS,15123
+2024-03-01,Delhi,2W,TVS,15123
+2024-03-01,Maharashtra,2W,Bajaj,15975
+2024-03-01,Uttar Pradesh,2W,Bajaj,14377
+2024-03-01,Gujarat,2W,Bajaj,12780
+2024-03-01,Tamil Nadu,2W,Bajaj,12780
+2024-03-01,Karnataka,2W,Bajaj,11981
+2024-03-01,Delhi,2W,Bajaj,11981
+2024-03-01,Maharashtra,3W,Mahindra,1671
+2024-03-01,Uttar Pradesh,3W,Mahindra,1504
+2024-03-01,Gujarat,3W,Mahindra,1337
+2024-03-01,Tamil Nadu,3W,Mahindra,1337
+2024-03-01,Karnataka,3W,Mahindra,1254
+2024-03-01,Delhi,3W,Mahindra,1254
+2024-03-01,Maharashtra,3W,Bajaj,2644
+2024-03-01,Uttar Pradesh,3W,Bajaj,2380
+2024-03-01,Gujarat,3W,Bajaj,2115
+2024-03-01,Tamil Nadu,3W,Bajaj,2115
+2024-03-01,Karnataka,3W,Bajaj,1983
+2024-03-01,Delhi,3W,Bajaj,1983
+2024-03-01,Maharashtra,3W,Tata,1139
+2024-03-01,Uttar Pradesh,3W,Tata,1025
+2024-03-01,Gujarat,3W,Tata,911
+2024-03-01,Tamil Nadu,3W,Tata,911
+2024-03-01,Karnataka,3W,Tata,854
+2024-03-01,Delhi,3W,Tata,854
+2024-03-01,Maharashtra,4W,Maruti,24938
+2024-03-01,Uttar Pradesh,4W,Maruti,22444
+2024-03-01,Gujarat,4W,Maruti,19950
+2024-03-01,Tamil Nadu,4W,Maruti,19950
+2024-03-01,Karnataka,4W,Maruti,18703
+2024-03-01,Delhi,4W,Maruti,18703
+2024-03-01,Maharashtra,4W,Hyundai,13726
+2024-03-01,Uttar Pradesh,4W,Hyundai,12353
+2024-03-01,Gujarat,4W,Hyundai,10980
+2024-03-01,Tamil Nadu,4W,Hyundai,10980
+2024-03-01,Karnataka,4W,Hyundai,10294
+2024-03-01,Delhi,4W,Hyundai,10294
+2024-03-01,Maharashtra,4W,Tata,13437
+2024-03-01,Uttar Pradesh,4W,Tata,12093
+2024-03-01,Gujarat,4W,Tata,10749
+2024-03-01,Tamil Nadu,4W,Tata,10749
+2024-03-01,Karnataka,4W,Tata,10078
+2024-03-01,Delhi,4W,Tata,10078
+2024-03-01,Maharashtra,4W,Kia,5661
+2024-03-01,Uttar Pradesh,4W,Kia,5095
+2024-03-01,Gujarat,4W,Kia,4529
+2024-03-01,Tamil Nadu,4W,Kia,4529
+2024-03-01,Karnataka,4W,Kia,4246
+2024-03-01,Delhi,4W,Kia,4246
+2024-03-01,Maharashtra,4W,MG,1732
+2024-03-01,Uttar Pradesh,4W,MG,1559
+2024-03-01,Gujarat,4W,MG,1385
+2024-03-01,Tamil Nadu,4W,MG,1385
+2024-03-01,Karnataka,4W,MG,1299
+2024-03-01,Delhi,4W,MG,1299
+2024-04-01,Maharashtra,2W,Hero,32895
+2024-04-01,Uttar Pradesh,2W,Hero,29605
+2024-04-01,Gujarat,2W,Hero,26316
+2024-04-01,Tamil Nadu,2W,Hero,26316
+2024-04-01,Karnataka,2W,Hero,24671
+2024-04-01,Delhi,2W,Hero,24671
+2024-04-01,Maharashtra,2W,Honda,25314
+2024-04-01,Uttar Pradesh,2W,Honda,22783
+2024-04-01,Gujarat,2W,Honda,20251
+2024-04-01,Tamil Nadu,2W,Honda,20251
+2024-04-01,Karnataka,2W,Honda,18986
+2024-04-01,Delhi,2W,Honda,18986
+2024-04-01,Maharashtra,2W,TVS,19606
+2024-04-01,Uttar Pradesh,2W,TVS,17645
+2024-04-01,Gujarat,2W,TVS,15685
+2024-04-01,Tamil Nadu,2W,TVS,15685
+2024-04-01,Karnataka,2W,TVS,14704
+2024-04-01,Delhi,2W,TVS,14704
+2024-04-01,Maharashtra,2W,Bajaj,15312
+2024-04-01,Uttar Pradesh,2W,Bajaj,13781
+2024-04-01,Gujarat,2W,Bajaj,12250
+2024-04-01,Tamil Nadu,2W,Bajaj,12250
+2024-04-01,Karnataka,2W,Bajaj,11484
+2024-04-01,Delhi,2W,Bajaj,11484
+2024-04-01,Maharashtra,3W,Mahindra,1604
+2024-04-01,Uttar Pradesh,3W,Mahindra,1444
+2024-04-01,Gujarat,3W,Mahindra,1284
+2024-04-01,Tamil Nadu,3W,Mahindra,1284
+2024-04-01,Karnataka,3W,Mahindra,1203
+2024-04-01,Delhi,3W,Mahindra,1203
+2024-04-01,Maharashtra,3W,Bajaj,2637
+2024-04-01,Uttar Pradesh,3W,Bajaj,2374
+2024-04-01,Gujarat,3W,Bajaj,2110
+2024-04-01,Tamil Nadu,3W,Bajaj,2110
+2024-04-01,Karnataka,3W,Bajaj,1978
+2024-04-01,Delhi,3W,Bajaj,1978
+2024-04-01,Maharashtra,3W,Tata,1160
+2024-04-01,Uttar Pradesh,3W,Tata,1044
+2024-04-01,Gujarat,3W,Tata,928
+2024-04-01,Tamil Nadu,3W,Tata,928
+2024-04-01,Karnataka,3W,Tata,870
+2024-04-01,Delhi,3W,Tata,870
+2024-04-01,Maharashtra,4W,Maruti,25087
+2024-04-01,Uttar Pradesh,4W,Maruti,22578
+2024-04-01,Gujarat,4W,Maruti,20070
+2024-04-01,Tamil Nadu,4W,Maruti,20070
+2024-04-01,Karnataka,4W,Maruti,18815
+2024-04-01,Delhi,4W,Maruti,18815
+2024-04-01,Maharashtra,4W,Hyundai,14485
+2024-04-01,Uttar Pradesh,4W,Hyundai,13037
+2024-04-01,Gujarat,4W,Hyundai,11588
+2024-04-01,Tamil Nadu,4W,Hyundai,11588
+2024-04-01,Karnataka,4W,Hyundai,10864
+2024-04-01,Delhi,4W,Hyundai,10864
+2024-04-01,Maharashtra,4W,Tata,12670
+2024-04-01,Uttar Pradesh,4W,Tata,11403
+2024-04-01,Gujarat,4W,Tata,10136
+2024-04-01,Tamil Nadu,4W,Tata,10136
+2024-04-01,Karnataka,4W,Tata,9502
+2024-04-01,Delhi,4W,Tata,9502
+2024-04-01,Maharashtra,4W,Kia,5577
+2024-04-01,Uttar Pradesh,4W,Kia,5019
+2024-04-01,Gujarat,4W,Kia,4462
+2024-04-01,Tamil Nadu,4W,Kia,4462
+2024-04-01,Karnataka,4W,Kia,4183
+2024-04-01,Delhi,4W,Kia,4183
+2024-04-01,Maharashtra,4W,MG,1742
+2024-04-01,Uttar Pradesh,4W,MG,1568
+2024-04-01,Gujarat,4W,MG,1394
+2024-04-01,Tamil Nadu,4W,MG,1394
+2024-04-01,Karnataka,4W,MG,1307
+2024-04-01,Delhi,4W,MG,1307
+2024-05-01,Maharashtra,2W,Hero,30487
+2024-05-01,Uttar Pradesh,2W,Hero,27438
+2024-05-01,Gujarat,2W,Hero,24390
+2024-05-01,Tamil Nadu,2W,Hero,24390
+2024-05-01,Karnataka,2W,Hero,22865
+2024-05-01,Delhi,2W,Hero,22865
+2024-05-01,Maharashtra,2W,Honda,25957
+2024-05-01,Uttar Pradesh,2W,Honda,23361
+2024-05-01,Gujarat,2W,Honda,20766
+2024-05-01,Tamil Nadu,2W,Honda,20766
+2024-05-01,Karnataka,2W,Honda,19468
+2024-05-01,Delhi,2W,Honda,19468
+2024-05-01,Maharashtra,2W,TVS,17238
+2024-05-01,Uttar Pradesh,2W,TVS,15514
+2024-05-01,Gujarat,2W,TVS,13790
+2024-05-01,Tamil Nadu,2W,TVS,13790
+2024-05-01,Karnataka,2W,TVS,12928
+2024-05-01,Delhi,2W,TVS,12928
+2024-05-01,Maharashtra,2W,Bajaj,14939
+2024-05-01,Uttar Pradesh,2W,Bajaj,13445
+2024-05-01,Gujarat,2W,Bajaj,11951
+2024-05-01,Tamil Nadu,2W,Bajaj,11951
+2024-05-01,Karnataka,2W,Bajaj,11204
+2024-05-01,Delhi,2W,Bajaj,11204
+2024-05-01,Maharashtra,3W,Mahindra,1518
+2024-05-01,Uttar Pradesh,3W,Mahindra,1366
+2024-05-01,Gujarat,3W,Mahindra,1214
+2024-05-01,Tamil Nadu,3W,Mahindra,1214
+2024-05-01,Karnataka,3W,Mahindra,1138
+2024-05-01,Delhi,3W,Mahindra,1138
+2024-05-01,Maharashtra,3W,Bajaj,2502
+2024-05-01,Uttar Pradesh,3W,Bajaj,2252
+2024-05-01,Gujarat,3W,Bajaj,2002
+2024-05-01,Tamil Nadu,3W,Bajaj,2002
+2024-05-01,Karnataka,3W,Bajaj,1877
+2024-05-01,Delhi,3W,Bajaj,1877
+2024-05-01,Maharashtra,3W,Tata,1023
+2024-05-01,Uttar Pradesh,3W,Tata,921
+2024-05-01,Gujarat,3W,Tata,818
+2024-05-01,Tamil Nadu,3W,Tata,818
+2024-05-01,Karnataka,3W,Tata,767
+2024-05-01,Delhi,3W,Tata,767
+2024-05-01,Maharashtra,4W,Maruti,21598
+2024-05-01,Uttar Pradesh,4W,Maruti,19438
+2024-05-01,Gujarat,4W,Maruti,17278
+2024-05-01,Tamil Nadu,4W,Maruti,17278
+2024-05-01,Karnataka,4W,Maruti,16198
+2024-05-01,Delhi,4W,Maruti,16198
+2024-05-01,Maharashtra,4W,Hyundai,13761
+2024-05-01,Uttar Pradesh,4W,Hyundai,12385
+2024-05-01,Gujarat,4W,Hyundai,11009
+2024-05-01,Tamil Nadu,4W,Hyundai,11009
+2024-05-01,Karnataka,4W,Hyundai,10321
+2024-05-01,Delhi,4W,Hyundai,10321
+2024-05-01,Maharashtra,4W,Tata,12306
+2024-05-01,Uttar Pradesh,4W,Tata,11076
+2024-05-01,Gujarat,4W,Tata,9845
+2024-05-01,Tamil Nadu,4W,Tata,9845
+2024-05-01,Karnataka,4W,Tata,9230
+2024-05-01,Delhi,4W,Tata,9230
+2024-05-01,Maharashtra,4W,Kia,5224
+2024-05-01,Uttar Pradesh,4W,Kia,4701
+2024-05-01,Gujarat,4W,Kia,4179
+2024-05-01,Tamil Nadu,4W,Kia,4179
+2024-05-01,Karnataka,4W,Kia,3918
+2024-05-01,Delhi,4W,Kia,3918
+2024-05-01,Maharashtra,4W,MG,1752
+2024-05-01,Uttar Pradesh,4W,MG,1577
+2024-05-01,Gujarat,4W,MG,1402
+2024-05-01,Tamil Nadu,4W,MG,1402
+2024-05-01,Karnataka,4W,MG,1314
+2024-05-01,Delhi,4W,MG,1314
+2024-06-01,Maharashtra,2W,Hero,29714
+2024-06-01,Uttar Pradesh,2W,Hero,26743
+2024-06-01,Gujarat,2W,Hero,23772
+2024-06-01,Tamil Nadu,2W,Hero,23772
+2024-06-01,Karnataka,2W,Hero,22286
+2024-06-01,Delhi,2W,Hero,22286
+2024-06-01,Maharashtra,2W,Honda,22804
+2024-06-01,Uttar Pradesh,2W,Honda,20523
+2024-06-01,Gujarat,2W,Honda,18243
+2024-06-01,Tamil Nadu,2W,Honda,18243
+2024-06-01,Karnataka,2W,Honda,17103
+2024-06-01,Delhi,2W,Honda,17103
+2024-06-01,Maharashtra,2W,TVS,17963
+2024-06-01,Uttar Pradesh,2W,TVS,16167
+2024-06-01,Gujarat,2W,TVS,14370
+2024-06-01,Tamil Nadu,2W,TVS,14370
+2024-06-01,Karnataka,2W,TVS,13472
+2024-06-01,Delhi,2W,TVS,13472
+2024-06-01,Maharashtra,2W,Bajaj,14842
+2024-06-01,Uttar Pradesh,2W,Bajaj,13357
+2024-06-01,Gujarat,2W,Bajaj,11873
+2024-06-01,Tamil Nadu,2W,Bajaj,11873
+2024-06-01,Karnataka,2W,Bajaj,11131
+2024-06-01,Delhi,2W,Bajaj,11131
+2024-06-01,Maharashtra,3W,Mahindra,1571
+2024-06-01,Uttar Pradesh,3W,Mahindra,1414
+2024-06-01,Gujarat,3W,Mahindra,1256
+2024-06-01,Tamil Nadu,3W,Mahindra,1256
+2024-06-01,Karnataka,3W,Mahindra,1178
+2024-06-01,Delhi,3W,Mahindra,1178
+2024-06-01,Maharashtra,3W,Bajaj,2343
+2024-06-01,Uttar Pradesh,3W,Bajaj,2109
+2024-06-01,Gujarat,3W,Bajaj,1874
+2024-06-01,Tamil Nadu,3W,Bajaj,1874
+2024-06-01,Karnataka,3W,Bajaj,1757
+2024-06-01,Delhi,3W,Bajaj,1757
+2024-06-01,Maharashtra,3W,Tata,1098
+2024-06-01,Uttar Pradesh,3W,Tata,988
+2024-06-01,Gujarat,3W,Tata,878
+2024-06-01,Tamil Nadu,3W,Tata,878
+2024-06-01,Karnataka,3W,Tata,823
+2024-06-01,Delhi,3W,Tata,823
+2024-06-01,Maharashtra,4W,Maruti,23257
+2024-06-01,Uttar Pradesh,4W,Maruti,20931
+2024-06-01,Gujarat,4W,Maruti,18605
+2024-06-01,Tamil Nadu,4W,Maruti,18605
+2024-06-01,Karnataka,4W,Maruti,17443
+2024-06-01,Delhi,4W,Maruti,17443
+2024-06-01,Maharashtra,4W,Hyundai,13275
+2024-06-01,Uttar Pradesh,4W,Hyundai,11948
+2024-06-01,Gujarat,4W,Hyundai,10620
+2024-06-01,Tamil Nadu,4W,Hyundai,10620
+2024-06-01,Karnataka,4W,Hyundai,9956
+2024-06-01,Delhi,4W,Hyundai,9956
+2024-06-01,Maharashtra,4W,Tata,13144
+2024-06-01,Uttar Pradesh,4W,Tata,11830
+2024-06-01,Gujarat,4W,Tata,10515
+2024-06-01,Tamil Nadu,4W,Tata,10515
+2024-06-01,Karnataka,4W,Tata,9858
+2024-06-01,Delhi,4W,Tata,9858
+2024-06-01,Maharashtra,4W,Kia,5011
+2024-06-01,Uttar Pradesh,4W,Kia,4510
+2024-06-01,Gujarat,4W,Kia,4009
+2024-06-01,Tamil Nadu,4W,Kia,4009
+2024-06-01,Karnataka,4W,Kia,3758
+2024-06-01,Delhi,4W,Kia,3758
+2024-06-01,Maharashtra,4W,MG,1693
+2024-06-01,Uttar Pradesh,4W,MG,1524
+2024-06-01,Gujarat,4W,MG,1354
+2024-06-01,Tamil Nadu,4W,MG,1354
+2024-06-01,Karnataka,4W,MG,1270
+2024-06-01,Delhi,4W,MG,1270
+2024-07-01,Maharashtra,2W,Hero,31122
+2024-07-01,Uttar Pradesh,2W,Hero,28010
+2024-07-01,Gujarat,2W,Hero,24898
+2024-07-01,Tamil Nadu,2W,Hero,24898
+2024-07-01,Karnataka,2W,Hero,23342
+2024-07-01,Delhi,2W,Hero,23342
+2024-07-01,Maharashtra,2W,Honda,25871
+2024-07-01,Uttar Pradesh,2W,Honda,23284
+2024-07-01,Gujarat,2W,Honda,20696
+2024-07-01,Tamil Nadu,2W,Honda,20696
+2024-07-01,Karnataka,2W,Honda,19403
+2024-07-01,Delhi,2W,Honda,19403
+2024-07-01,Maharashtra,2W,TVS,20580
+2024-07-01,Uttar Pradesh,2W,TVS,18522
+2024-07-01,Gujarat,2W,TVS,16464
+2024-07-01,Tamil Nadu,2W,TVS,16464
+2024-07-01,Karnataka,2W,TVS,15435
+2024-07-01,Delhi,2W,TVS,15435
+2024-07-01,Maharashtra,2W,Bajaj,16271
+2024-07-01,Uttar Pradesh,2W,Bajaj,14644
+2024-07-01,Gujarat,2W,Bajaj,13017
+2024-07-01,Tamil Nadu,2W,Bajaj,13017
+2024-07-01,Karnataka,2W,Bajaj,12203
+2024-07-01,Delhi,2W,Bajaj,12203
+2024-07-01,Maharashtra,3W,Mahindra,1850
+2024-07-01,Uttar Pradesh,3W,Mahindra,1665
+2024-07-01,Gujarat,3W,Mahindra,1480
+2024-07-01,Tamil Nadu,3W,Mahindra,1480
+2024-07-01,Karnataka,3W,Mahindra,1388
+2024-07-01,Delhi,3W,Mahindra,1388
+2024-07-01,Maharashtra,3W,Bajaj,2568
+2024-07-01,Uttar Pradesh,3W,Bajaj,2311
+2024-07-01,Gujarat,3W,Bajaj,2054
+2024-07-01,Tamil Nadu,3W,Bajaj,2054
+2024-07-01,Karnataka,3W,Bajaj,1926
+2024-07-01,Delhi,3W,Bajaj,1926
+2024-07-01,Maharashtra,3W,Tata,1104
+2024-07-01,Uttar Pradesh,3W,Tata,994
+2024-07-01,Gujarat,3W,Tata,884
+2024-07-01,Tamil Nadu,3W,Tata,884
+2024-07-01,Karnataka,3W,Tata,828
+2024-07-01,Delhi,3W,Tata,828
+2024-07-01,Maharashtra,4W,Maruti,23276
+2024-07-01,Uttar Pradesh,4W,Maruti,20948
+2024-07-01,Gujarat,4W,Maruti,18621
+2024-07-01,Tamil Nadu,4W,Maruti,18621
+2024-07-01,Karnataka,4W,Maruti,17457
+2024-07-01,Delhi,4W,Maruti,17457
+2024-07-01,Maharashtra,4W,Hyundai,13345
+2024-07-01,Uttar Pradesh,4W,Hyundai,12010
+2024-07-01,Gujarat,4W,Hyundai,10676
+2024-07-01,Tamil Nadu,4W,Hyundai,10676
+2024-07-01,Karnataka,4W,Hyundai,10009
+2024-07-01,Delhi,4W,Hyundai,10009
+2024-07-01,Maharashtra,4W,Tata,13073
+2024-07-01,Uttar Pradesh,4W,Tata,11765
+2024-07-01,Gujarat,4W,Tata,10458
+2024-07-01,Tamil Nadu,4W,Tata,10458
+2024-07-01,Karnataka,4W,Tata,9804
+2024-07-01,Delhi,4W,Tata,9804
+2024-07-01,Maharashtra,4W,Kia,5744
+2024-07-01,Uttar Pradesh,4W,Kia,5169
+2024-07-01,Gujarat,4W,Kia,4595
+2024-07-01,Tamil Nadu,4W,Kia,4595
+2024-07-01,Karnataka,4W,Kia,4308
+2024-07-01,Delhi,4W,Kia,4308
+2024-07-01,Maharashtra,4W,MG,1841
+2024-07-01,Uttar Pradesh,4W,MG,1657
+2024-07-01,Gujarat,4W,MG,1473
+2024-07-01,Tamil Nadu,4W,MG,1473
+2024-07-01,Karnataka,4W,MG,1381
+2024-07-01,Delhi,4W,MG,1381
+2024-08-01,Maharashtra,2W,Hero,33960
+2024-08-01,Uttar Pradesh,2W,Hero,30564
+2024-08-01,Gujarat,2W,Hero,27168
+2024-08-01,Tamil Nadu,2W,Hero,27168
+2024-08-01,Karnataka,2W,Hero,25470
+2024-08-01,Delhi,2W,Hero,25470
+2024-08-01,Maharashtra,2W,Honda,28172
+2024-08-01,Uttar Pradesh,2W,Honda,25355
+2024-08-01,Gujarat,2W,Honda,22538
+2024-08-01,Tamil Nadu,2W,Honda,22538
+2024-08-01,Karnataka,2W,Honda,21129
+2024-08-01,Delhi,2W,Honda,21129
+2024-08-01,Maharashtra,2W,TVS,19006
+2024-08-01,Uttar Pradesh,2W,TVS,17105
+2024-08-01,Gujarat,2W,TVS,15205
+2024-08-01,Tamil Nadu,2W,TVS,15205
+2024-08-01,Karnataka,2W,TVS,14254
+2024-08-01,Delhi,2W,TVS,14254
+2024-08-01,Maharashtra,2W,Bajaj,14518
+2024-08-01,Uttar Pradesh,2W,Bajaj,13067
+2024-08-01,Gujarat,2W,Bajaj,11615
+2024-08-01,Tamil Nadu,2W,Bajaj,11615
+2024-08-01,Karnataka,2W,Bajaj,10889
+2024-08-01,Delhi,2W,Bajaj,10889
+2024-08-01,Maharashtra,3W,Mahindra,1738
+2024-08-01,Uttar Pradesh,3W,Mahindra,1564
+2024-08-01,Gujarat,3W,Mahindra,1390
+2024-08-01,Tamil Nadu,3W,Mahindra,1390
+2024-08-01,Karnataka,3W,Mahindra,1304
+2024-08-01,Delhi,3W,Mahindra,1304
+2024-08-01,Maharashtra,3W,Bajaj,2533
+2024-08-01,Uttar Pradesh,3W,Bajaj,2280
+2024-08-01,Gujarat,3W,Bajaj,2027
+2024-08-01,Tamil Nadu,3W,Bajaj,2027
+2024-08-01,Karnataka,3W,Bajaj,1900
+2024-08-01,Delhi,3W,Bajaj,1900
+2024-08-01,Maharashtra,3W,Tata,1045
+2024-08-01,Uttar Pradesh,3W,Tata,940
+2024-08-01,Gujarat,3W,Tata,836
+2024-08-01,Tamil Nadu,3W,Tata,836
+2024-08-01,Karnataka,3W,Tata,784
+2024-08-01,Delhi,3W,Tata,784
+2024-08-01,Maharashtra,4W,Maruti,23758
+2024-08-01,Uttar Pradesh,4W,Maruti,21383
+2024-08-01,Gujarat,4W,Maruti,19007
+2024-08-01,Tamil Nadu,4W,Maruti,19007
+2024-08-01,Karnataka,4W,Maruti,17819
+2024-08-01,Delhi,4W,Maruti,17819
+2024-08-01,Maharashtra,4W,Hyundai,14521
+2024-08-01,Uttar Pradesh,4W,Hyundai,13069
+2024-08-01,Gujarat,4W,Hyundai,11617
+2024-08-01,Tamil Nadu,4W,Hyundai,11617
+2024-08-01,Karnataka,4W,Hyundai,10891
+2024-08-01,Delhi,4W,Hyundai,10891
+2024-08-01,Maharashtra,4W,Tata,13127
+2024-08-01,Uttar Pradesh,4W,Tata,11814
+2024-08-01,Gujarat,4W,Tata,10502
+2024-08-01,Tamil Nadu,4W,Tata,10502
+2024-08-01,Karnataka,4W,Tata,9845
+2024-08-01,Delhi,4W,Tata,9845
+2024-08-01,Maharashtra,4W,Kia,5313
+2024-08-01,Uttar Pradesh,4W,Kia,4782
+2024-08-01,Gujarat,4W,Kia,4251
+2024-08-01,Tamil Nadu,4W,Kia,4251
+2024-08-01,Karnataka,4W,Kia,3985
+2024-08-01,Delhi,4W,Kia,3985
+2024-08-01,Maharashtra,4W,MG,1847
+2024-08-01,Uttar Pradesh,4W,MG,1662
+2024-08-01,Gujarat,4W,MG,1478
+2024-08-01,Tamil Nadu,4W,MG,1478
+2024-08-01,Karnataka,4W,MG,1385
+2024-08-01,Delhi,4W,MG,1385
+2024-09-01,Maharashtra,2W,Hero,37322
+2024-09-01,Uttar Pradesh,2W,Hero,33590
+2024-09-01,Gujarat,2W,Hero,29858
+2024-09-01,Tamil Nadu,2W,Hero,29858
+2024-09-01,Karnataka,2W,Hero,27992
+2024-09-01,Delhi,2W,Hero,27992
+2024-09-01,Maharashtra,2W,Honda,27509
+2024-09-01,Uttar Pradesh,2W,Honda,24758
+2024-09-01,Gujarat,2W,Honda,22007
+2024-09-01,Tamil Nadu,2W,Honda,22007
+2024-09-01,Karnataka,2W,Honda,20632
+2024-09-01,Delhi,2W,Honda,20632
+2024-09-01,Maharashtra,2W,TVS,19375
+2024-09-01,Uttar Pradesh,2W,TVS,17438
+2024-09-01,Gujarat,2W,TVS,15500
+2024-09-01,Tamil Nadu,2W,TVS,15500
+2024-09-01,Karnataka,2W,TVS,14531
+2024-09-01,Delhi,2W,TVS,14531
+2024-09-01,Maharashtra,2W,Bajaj,14958
+2024-09-01,Uttar Pradesh,2W,Bajaj,13462
+2024-09-01,Gujarat,2W,Bajaj,11966
+2024-09-01,Tamil Nadu,2W,Bajaj,11966
+2024-09-01,Karnataka,2W,Bajaj,11218
+2024-09-01,Delhi,2W,Bajaj,11218
+2024-09-01,Maharashtra,3W,Mahindra,1958
+2024-09-01,Uttar Pradesh,3W,Mahindra,1762
+2024-09-01,Gujarat,3W,Mahindra,1567
+2024-09-01,Tamil Nadu,3W,Mahindra,1567
+2024-09-01,Karnataka,3W,Mahindra,1469
+2024-09-01,Delhi,3W,Mahindra,1469
+2024-09-01,Maharashtra,3W,Bajaj,2569
+2024-09-01,Uttar Pradesh,3W,Bajaj,2312
+2024-09-01,Gujarat,3W,Bajaj,2055
+2024-09-01,Tamil Nadu,3W,Bajaj,2055
+2024-09-01,Karnataka,3W,Bajaj,1926
+2024-09-01,Delhi,3W,Bajaj,1926
+2024-09-01,Maharashtra,3W,Tata,1193
+2024-09-01,Uttar Pradesh,3W,Tata,1074
+2024-09-01,Gujarat,3W,Tata,955
+2024-09-01,Tamil Nadu,3W,Tata,955
+2024-09-01,Karnataka,3W,Tata,895
+2024-09-01,Delhi,3W,Tata,895
+2024-09-01,Maharashtra,4W,Maruti,25697
+2024-09-01,Uttar Pradesh,4W,Maruti,23127
+2024-09-01,Gujarat,4W,Maruti,20557
+2024-09-01,Tamil Nadu,4W,Maruti,20557
+2024-09-01,Karnataka,4W,Maruti,19273
+2024-09-01,Delhi,4W,Maruti,19273
+2024-09-01,Maharashtra,4W,Hyundai,14556
+2024-09-01,Uttar Pradesh,4W,Hyundai,13101
+2024-09-01,Gujarat,4W,Hyundai,11645
+2024-09-01,Tamil Nadu,4W,Hyundai,11645
+2024-09-01,Karnataka,4W,Hyundai,10917
+2024-09-01,Delhi,4W,Hyundai,10917
+2024-09-01,Maharashtra,4W,Tata,14506
+2024-09-01,Uttar Pradesh,4W,Tata,13056
+2024-09-01,Gujarat,4W,Tata,11605
+2024-09-01,Tamil Nadu,4W,Tata,11605
+2024-09-01,Karnataka,4W,Tata,10880
+2024-09-01,Delhi,4W,Tata,10880
+2024-09-01,Maharashtra,4W,Kia,5331
+2024-09-01,Uttar Pradesh,4W,Kia,4798
+2024-09-01,Gujarat,4W,Kia,4264
+2024-09-01,Tamil Nadu,4W,Kia,4264
+2024-09-01,Karnataka,4W,Kia,3998
+2024-09-01,Delhi,4W,Kia,3998
+2024-09-01,Maharashtra,4W,MG,1740
+2024-09-01,Uttar Pradesh,4W,MG,1566
+2024-09-01,Gujarat,4W,MG,1392
+2024-09-01,Tamil Nadu,4W,MG,1392
+2024-09-01,Karnataka,4W,MG,1305
+2024-09-01,Delhi,4W,MG,1305
+2024-10-01,Maharashtra,2W,Hero,34556
+2024-10-01,Uttar Pradesh,2W,Hero,31100
+2024-10-01,Gujarat,2W,Hero,27645
+2024-10-01,Tamil Nadu,2W,Hero,27645
+2024-10-01,Karnataka,2W,Hero,25917
+2024-10-01,Delhi,2W,Hero,25917
+2024-10-01,Maharashtra,2W,Honda,25728
+2024-10-01,Uttar Pradesh,2W,Honda,23156
+2024-10-01,Gujarat,2W,Honda,20583
+2024-10-01,Tamil Nadu,2W,Honda,20583
+2024-10-01,Karnataka,2W,Honda,19296
+2024-10-01,Delhi,2W,Honda,19296
+2024-10-01,Maharashtra,2W,TVS,21986
+2024-10-01,Uttar Pradesh,2W,TVS,19787
+2024-10-01,Gujarat,2W,TVS,17589
+2024-10-01,Tamil Nadu,2W,TVS,17589
+2024-10-01,Karnataka,2W,TVS,16490
+2024-10-01,Delhi,2W,TVS,16490
+2024-10-01,Maharashtra,2W,Bajaj,15561
+2024-10-01,Uttar Pradesh,2W,Bajaj,14005
+2024-10-01,Gujarat,2W,Bajaj,12449
+2024-10-01,Tamil Nadu,2W,Bajaj,12449
+2024-10-01,Karnataka,2W,Bajaj,11671
+2024-10-01,Delhi,2W,Bajaj,11671
+2024-10-01,Maharashtra,3W,Mahindra,1750
+2024-10-01,Uttar Pradesh,3W,Mahindra,1575
+2024-10-01,Gujarat,3W,Mahindra,1400
+2024-10-01,Tamil Nadu,3W,Mahindra,1400
+2024-10-01,Karnataka,3W,Mahindra,1312
+2024-10-01,Delhi,3W,Mahindra,1312
+2024-10-01,Maharashtra,3W,Bajaj,2583
+2024-10-01,Uttar Pradesh,3W,Bajaj,2324
+2024-10-01,Gujarat,3W,Bajaj,2066
+2024-10-01,Tamil Nadu,3W,Bajaj,2066
+2024-10-01,Karnataka,3W,Bajaj,1937
+2024-10-01,Delhi,3W,Bajaj,1937
+2024-10-01,Maharashtra,3W,Tata,1184
+2024-10-01,Uttar Pradesh,3W,Tata,1066
+2024-10-01,Gujarat,3W,Tata,947
+2024-10-01,Tamil Nadu,3W,Tata,947
+2024-10-01,Karnataka,3W,Tata,888
+2024-10-01,Delhi,3W,Tata,888
+2024-10-01,Maharashtra,4W,Maruti,25307
+2024-10-01,Uttar Pradesh,4W,Maruti,22776
+2024-10-01,Gujarat,4W,Maruti,20245
+2024-10-01,Tamil Nadu,4W,Maruti,20245
+2024-10-01,Karnataka,4W,Maruti,18980
+2024-10-01,Delhi,4W,Maruti,18980
+2024-10-01,Maharashtra,4W,Hyundai,15397
+2024-10-01,Uttar Pradesh,4W,Hyundai,13857
+2024-10-01,Gujarat,4W,Hyundai,12317
+2024-10-01,Tamil Nadu,4W,Hyundai,12317
+2024-10-01,Karnataka,4W,Hyundai,11548
+2024-10-01,Delhi,4W,Hyundai,11548
+2024-10-01,Maharashtra,4W,Tata,14268
+2024-10-01,Uttar Pradesh,4W,Tata,12841
+2024-10-01,Gujarat,4W,Tata,11415
+2024-10-01,Tamil Nadu,4W,Tata,11415
+2024-10-01,Karnataka,4W,Tata,10701
+2024-10-01,Delhi,4W,Tata,10701
+2024-10-01,Maharashtra,4W,Kia,6086
+2024-10-01,Uttar Pradesh,4W,Kia,5478
+2024-10-01,Gujarat,4W,Kia,4869
+2024-10-01,Tamil Nadu,4W,Kia,4869
+2024-10-01,Karnataka,4W,Kia,4565
+2024-10-01,Delhi,4W,Kia,4565
+2024-10-01,Maharashtra,4W,MG,1992
+2024-10-01,Uttar Pradesh,4W,MG,1793
+2024-10-01,Gujarat,4W,MG,1594
+2024-10-01,Tamil Nadu,4W,MG,1594
+2024-10-01,Karnataka,4W,MG,1494
+2024-10-01,Delhi,4W,MG,1494
+2024-11-01,Maharashtra,2W,Hero,35997
+2024-11-01,Uttar Pradesh,2W,Hero,32397
+2024-11-01,Gujarat,2W,Hero,28798
+2024-11-01,Tamil Nadu,2W,Hero,28798
+2024-11-01,Karnataka,2W,Hero,26998
+2024-11-01,Delhi,2W,Hero,26998
+2024-11-01,Maharashtra,2W,Honda,26626
+2024-11-01,Uttar Pradesh,2W,Honda,23964
+2024-11-01,Gujarat,2W,Honda,21301
+2024-11-01,Tamil Nadu,2W,Honda,21301
+2024-11-01,Karnataka,2W,Honda,19970
+2024-11-01,Delhi,2W,Honda,19970
+2024-11-01,Maharashtra,2W,TVS,20895
+2024-11-01,Uttar Pradesh,2W,TVS,18806
+2024-11-01,Gujarat,2W,TVS,16716
+2024-11-01,Tamil Nadu,2W,TVS,16716
+2024-11-01,Karnataka,2W,TVS,15672
+2024-11-01,Delhi,2W,TVS,15672
+2024-11-01,Maharashtra,2W,Bajaj,15478
+2024-11-01,Uttar Pradesh,2W,Bajaj,13930
+2024-11-01,Gujarat,2W,Bajaj,12382
+2024-11-01,Tamil Nadu,2W,Bajaj,12382
+2024-11-01,Karnataka,2W,Bajaj,11608
+2024-11-01,Delhi,2W,Bajaj,11608
+2024-11-01,Maharashtra,3W,Mahindra,1719
+2024-11-01,Uttar Pradesh,3W,Mahindra,1547
+2024-11-01,Gujarat,3W,Mahindra,1375
+2024-11-01,Tamil Nadu,3W,Mahindra,1375
+2024-11-01,Karnataka,3W,Mahindra,1289
+2024-11-01,Delhi,3W,Mahindra,1289
+2024-11-01,Maharashtra,3W,Bajaj,2785
+2024-11-01,Uttar Pradesh,3W,Bajaj,2506
+2024-11-01,Gujarat,3W,Bajaj,2228
+2024-11-01,Tamil Nadu,3W,Bajaj,2228
+2024-11-01,Karnataka,3W,Bajaj,2088
+2024-11-01,Delhi,3W,Bajaj,2088
+2024-11-01,Maharashtra,3W,Tata,1205
+2024-11-01,Uttar Pradesh,3W,Tata,1085
+2024-11-01,Gujarat,3W,Tata,964
+2024-11-01,Tamil Nadu,3W,Tata,964
+2024-11-01,Karnataka,3W,Tata,904
+2024-11-01,Delhi,3W,Tata,904
+2024-11-01,Maharashtra,4W,Maruti,24324
+2024-11-01,Uttar Pradesh,4W,Maruti,21892
+2024-11-01,Gujarat,4W,Maruti,19460
+2024-11-01,Tamil Nadu,4W,Maruti,19460
+2024-11-01,Karnataka,4W,Maruti,18243
+2024-11-01,Delhi,4W,Maruti,18243
+2024-11-01,Maharashtra,4W,Hyundai,14600
+2024-11-01,Uttar Pradesh,4W,Hyundai,13140
+2024-11-01,Gujarat,4W,Hyundai,11680
+2024-11-01,Tamil Nadu,4W,Hyundai,11680
+2024-11-01,Karnataka,4W,Hyundai,10950
+2024-11-01,Delhi,4W,Hyundai,10950
+2024-11-01,Maharashtra,4W,Tata,13641
+2024-11-01,Uttar Pradesh,4W,Tata,12277
+2024-11-01,Gujarat,4W,Tata,10913
+2024-11-01,Tamil Nadu,4W,Tata,10913
+2024-11-01,Karnataka,4W,Tata,10231
+2024-11-01,Delhi,4W,Tata,10231
+2024-11-01,Maharashtra,4W,Kia,6011
+2024-11-01,Uttar Pradesh,4W,Kia,5410
+2024-11-01,Gujarat,4W,Kia,4809
+2024-11-01,Tamil Nadu,4W,Kia,4809
+2024-11-01,Karnataka,4W,Kia,4509
+2024-11-01,Delhi,4W,Kia,4509
+2024-11-01,Maharashtra,4W,MG,1871
+2024-11-01,Uttar Pradesh,4W,MG,1684
+2024-11-01,Gujarat,4W,MG,1497
+2024-11-01,Tamil Nadu,4W,MG,1497
+2024-11-01,Karnataka,4W,MG,1403
+2024-11-01,Delhi,4W,MG,1403
+2024-12-01,Maharashtra,2W,Hero,34062
+2024-12-01,Uttar Pradesh,2W,Hero,30656
+2024-12-01,Gujarat,2W,Hero,27250
+2024-12-01,Tamil Nadu,2W,Hero,27250
+2024-12-01,Karnataka,2W,Hero,25547
+2024-12-01,Delhi,2W,Hero,25547
+2024-12-01,Maharashtra,2W,Honda,27857
+2024-12-01,Uttar Pradesh,2W,Honda,25071
+2024-12-01,Gujarat,2W,Honda,22285
+2024-12-01,Tamil Nadu,2W,Honda,22285
+2024-12-01,Karnataka,2W,Honda,20893
+2024-12-01,Delhi,2W,Honda,20893
+2024-12-01,Maharashtra,2W,TVS,19728
+2024-12-01,Uttar Pradesh,2W,TVS,17755
+2024-12-01,Gujarat,2W,TVS,15782
+2024-12-01,Tamil Nadu,2W,TVS,15782
+2024-12-01,Karnataka,2W,TVS,14796
+2024-12-01,Delhi,2W,TVS,14796
+2024-12-01,Maharashtra,2W,Bajaj,16339
+2024-12-01,Uttar Pradesh,2W,Bajaj,14705
+2024-12-01,Gujarat,2W,Bajaj,13071
+2024-12-01,Tamil Nadu,2W,Bajaj,13071
+2024-12-01,Karnataka,2W,Bajaj,12254
+2024-12-01,Delhi,2W,Bajaj,12254
+2024-12-01,Maharashtra,3W,Mahindra,1900
+2024-12-01,Uttar Pradesh,3W,Mahindra,1710
+2024-12-01,Gujarat,3W,Mahindra,1520
+2024-12-01,Tamil Nadu,3W,Mahindra,1520
+2024-12-01,Karnataka,3W,Mahindra,1425
+2024-12-01,Delhi,3W,Mahindra,1425
+2024-12-01,Maharashtra,3W,Bajaj,2499
+2024-12-01,Uttar Pradesh,3W,Bajaj,2249
+2024-12-01,Gujarat,3W,Bajaj,1999
+2024-12-01,Tamil Nadu,3W,Bajaj,1999
+2024-12-01,Karnataka,3W,Bajaj,1874
+2024-12-01,Delhi,3W,Bajaj,1874
+2024-12-01,Maharashtra,3W,Tata,1192
+2024-12-01,Uttar Pradesh,3W,Tata,1073
+2024-12-01,Gujarat,3W,Tata,954
+2024-12-01,Tamil Nadu,3W,Tata,954
+2024-12-01,Karnataka,3W,Tata,894
+2024-12-01,Delhi,3W,Tata,894
+2024-12-01,Maharashtra,4W,Maruti,25403
+2024-12-01,Uttar Pradesh,4W,Maruti,22862
+2024-12-01,Gujarat,4W,Maruti,20322
+2024-12-01,Tamil Nadu,4W,Maruti,20322
+2024-12-01,Karnataka,4W,Maruti,19052
+2024-12-01,Delhi,4W,Maruti,19052
+2024-12-01,Maharashtra,4W,Hyundai,13637
+2024-12-01,Uttar Pradesh,4W,Hyundai,12273
+2024-12-01,Gujarat,4W,Hyundai,10909
+2024-12-01,Tamil Nadu,4W,Hyundai,10909
+2024-12-01,Karnataka,4W,Hyundai,10227
+2024-12-01,Delhi,4W,Hyundai,10227
+2024-12-01,Maharashtra,4W,Tata,13280
+2024-12-01,Uttar Pradesh,4W,Tata,11952
+2024-12-01,Gujarat,4W,Tata,10624
+2024-12-01,Tamil Nadu,4W,Tata,10624
+2024-12-01,Karnataka,4W,Tata,9960
+2024-12-01,Delhi,4W,Tata,9960
+2024-12-01,Maharashtra,4W,Kia,5687
+2024-12-01,Uttar Pradesh,4W,Kia,5118
+2024-12-01,Gujarat,4W,Kia,4549
+2024-12-01,Tamil Nadu,4W,Kia,4549
+2024-12-01,Karnataka,4W,Kia,4265
+2024-12-01,Delhi,4W,Kia,4265
+2024-12-01,Maharashtra,4W,MG,1901
+2024-12-01,Uttar Pradesh,4W,MG,1711
+2024-12-01,Gujarat,4W,MG,1521
+2024-12-01,Tamil Nadu,4W,MG,1521
+2024-12-01,Karnataka,4W,MG,1426
+2024-12-01,Delhi,4W,MG,1426
+2025-01-01,Maharashtra,2W,Hero,32938
+2025-01-01,Uttar Pradesh,2W,Hero,29644
+2025-01-01,Gujarat,2W,Hero,26350
+2025-01-01,Tamil Nadu,2W,Hero,26350
+2025-01-01,Karnataka,2W,Hero,24703
+2025-01-01,Delhi,2W,Hero,24703
+2025-01-01,Maharashtra,2W,Honda,27176
+2025-01-01,Uttar Pradesh,2W,Honda,24458
+2025-01-01,Gujarat,2W,Honda,21741
+2025-01-01,Tamil Nadu,2W,Honda,21741
+2025-01-01,Karnataka,2W,Honda,20382
+2025-01-01,Delhi,2W,Honda,20382
+2025-01-01,Maharashtra,2W,TVS,21383
+2025-01-01,Uttar Pradesh,2W,TVS,19245
+2025-01-01,Gujarat,2W,TVS,17107
+2025-01-01,Tamil Nadu,2W,TVS,17107
+2025-01-01,Karnataka,2W,TVS,16038
+2025-01-01,Delhi,2W,TVS,16038
+2025-01-01,Maharashtra,2W,Bajaj,16424
+2025-01-01,Uttar Pradesh,2W,Bajaj,14782
+2025-01-01,Gujarat,2W,Bajaj,13140
+2025-01-01,Tamil Nadu,2W,Bajaj,13140
+2025-01-01,Karnataka,2W,Bajaj,12318
+2025-01-01,Delhi,2W,Bajaj,12318
+2025-01-01,Maharashtra,3W,Mahindra,1919
+2025-01-01,Uttar Pradesh,3W,Mahindra,1727
+2025-01-01,Gujarat,3W,Mahindra,1535
+2025-01-01,Tamil Nadu,3W,Mahindra,1535
+2025-01-01,Karnataka,3W,Mahindra,1439
+2025-01-01,Delhi,3W,Mahindra,1439
+2025-01-01,Maharashtra,3W,Bajaj,2672
+2025-01-01,Uttar Pradesh,3W,Bajaj,2405
+2025-01-01,Gujarat,3W,Bajaj,2138
+2025-01-01,Tamil Nadu,3W,Bajaj,2138
+2025-01-01,Karnataka,3W,Bajaj,2004
+2025-01-01,Delhi,3W,Bajaj,2004
+2025-01-01,Maharashtra,3W,Tata,1147
+2025-01-01,Uttar Pradesh,3W,Tata,1032
+2025-01-01,Gujarat,3W,Tata,918
+2025-01-01,Tamil Nadu,3W,Tata,918
+2025-01-01,Karnataka,3W,Tata,860
+2025-01-01,Delhi,3W,Tata,860
+2025-01-01,Maharashtra,4W,Maruti,23476
+2025-01-01,Uttar Pradesh,4W,Maruti,21129
+2025-01-01,Gujarat,4W,Maruti,18781
+2025-01-01,Tamil Nadu,4W,Maruti,18781
+2025-01-01,Karnataka,4W,Maruti,17607
+2025-01-01,Delhi,4W,Maruti,17607
+2025-01-01,Maharashtra,4W,Hyundai,15077
+2025-01-01,Uttar Pradesh,4W,Hyundai,13569
+2025-01-01,Gujarat,4W,Hyundai,12062
+2025-01-01,Tamil Nadu,4W,Hyundai,12062
+2025-01-01,Karnataka,4W,Hyundai,11308
+2025-01-01,Delhi,4W,Hyundai,11308
+2025-01-01,Maharashtra,4W,Tata,14124
+2025-01-01,Uttar Pradesh,4W,Tata,12712
+2025-01-01,Gujarat,4W,Tata,11300
+2025-01-01,Tamil Nadu,4W,Tata,11300
+2025-01-01,Karnataka,4W,Tata,10593
+2025-01-01,Delhi,4W,Tata,10593
+2025-01-01,Maharashtra,4W,Kia,5727
+2025-01-01,Uttar Pradesh,4W,Kia,5154
+2025-01-01,Gujarat,4W,Kia,4581
+2025-01-01,Tamil Nadu,4W,Kia,4581
+2025-01-01,Karnataka,4W,Kia,4295
+2025-01-01,Delhi,4W,Kia,4295
+2025-01-01,Maharashtra,4W,MG,1854
+2025-01-01,Uttar Pradesh,4W,MG,1669
+2025-01-01,Gujarat,4W,MG,1484
+2025-01-01,Tamil Nadu,4W,MG,1484
+2025-01-01,Karnataka,4W,MG,1391
+2025-01-01,Delhi,4W,MG,1391
+2025-02-01,Maharashtra,2W,Hero,32202
+2025-02-01,Uttar Pradesh,2W,Hero,28982
+2025-02-01,Gujarat,2W,Hero,25761
+2025-02-01,Tamil Nadu,2W,Hero,25761
+2025-02-01,Karnataka,2W,Hero,24151
+2025-02-01,Delhi,2W,Hero,24151
+2025-02-01,Maharashtra,2W,Honda,28728
+2025-02-01,Uttar Pradesh,2W,Honda,25855
+2025-02-01,Gujarat,2W,Honda,22982
+2025-02-01,Tamil Nadu,2W,Honda,22982
+2025-02-01,Karnataka,2W,Honda,21546
+2025-02-01,Delhi,2W,Honda,21546
+2025-02-01,Maharashtra,2W,TVS,21807
+2025-02-01,Uttar Pradesh,2W,TVS,19626
+2025-02-01,Gujarat,2W,TVS,17445
+2025-02-01,Tamil Nadu,2W,TVS,17445
+2025-02-01,Karnataka,2W,TVS,16355
+2025-02-01,Delhi,2W,TVS,16355
+2025-02-01,Maharashtra,2W,Bajaj,16953
+2025-02-01,Uttar Pradesh,2W,Bajaj,15258
+2025-02-01,Gujarat,2W,Bajaj,13562
+2025-02-01,Tamil Nadu,2W,Bajaj,13562
+2025-02-01,Karnataka,2W,Bajaj,12715
+2025-02-01,Delhi,2W,Bajaj,12715
+2025-02-01,Maharashtra,3W,Mahindra,1811
+2025-02-01,Uttar Pradesh,3W,Mahindra,1630
+2025-02-01,Gujarat,3W,Mahindra,1448
+2025-02-01,Tamil Nadu,3W,Mahindra,1448
+2025-02-01,Karnataka,3W,Mahindra,1358
+2025-02-01,Delhi,3W,Mahindra,1358
+2025-02-01,Maharashtra,3W,Bajaj,2826
+2025-02-01,Uttar Pradesh,3W,Bajaj,2543
+2025-02-01,Gujarat,3W,Bajaj,2260
+2025-02-01,Tamil Nadu,3W,Bajaj,2260
+2025-02-01,Karnataka,3W,Bajaj,2119
+2025-02-01,Delhi,3W,Bajaj,2119
+2025-02-01,Maharashtra,3W,Tata,1093
+2025-02-01,Uttar Pradesh,3W,Tata,983
+2025-02-01,Gujarat,3W,Tata,874
+2025-02-01,Tamil Nadu,3W,Tata,874
+2025-02-01,Karnataka,3W,Tata,819
+2025-02-01,Delhi,3W,Tata,819
+2025-02-01,Maharashtra,4W,Maruti,26373
+2025-02-01,Uttar Pradesh,4W,Maruti,23736
+2025-02-01,Gujarat,4W,Maruti,21099
+2025-02-01,Tamil Nadu,4W,Maruti,21099
+2025-02-01,Karnataka,4W,Maruti,19780
+2025-02-01,Delhi,4W,Maruti,19780
+2025-02-01,Maharashtra,4W,Hyundai,15457
+2025-02-01,Uttar Pradesh,4W,Hyundai,13912
+2025-02-01,Gujarat,4W,Hyundai,12366
+2025-02-01,Tamil Nadu,4W,Hyundai,12366
+2025-02-01,Karnataka,4W,Hyundai,11593
+2025-02-01,Delhi,4W,Hyundai,11593
+2025-02-01,Maharashtra,4W,Tata,13173
+2025-02-01,Uttar Pradesh,4W,Tata,11855
+2025-02-01,Gujarat,4W,Tata,10538
+2025-02-01,Tamil Nadu,4W,Tata,10538
+2025-02-01,Karnataka,4W,Tata,9879
+2025-02-01,Delhi,4W,Tata,9879
+2025-02-01,Maharashtra,4W,Kia,5249
+2025-02-01,Uttar Pradesh,4W,Kia,4724
+2025-02-01,Gujarat,4W,Kia,4200
+2025-02-01,Tamil Nadu,4W,Kia,4200
+2025-02-01,Karnataka,4W,Kia,3937
+2025-02-01,Delhi,4W,Kia,3937
+2025-02-01,Maharashtra,4W,MG,1783
+2025-02-01,Uttar Pradesh,4W,MG,1605
+2025-02-01,Gujarat,4W,MG,1426
+2025-02-01,Tamil Nadu,4W,MG,1426
+2025-02-01,Karnataka,4W,MG,1337
+2025-02-01,Delhi,4W,MG,1337
+2025-03-01,Maharashtra,2W,Hero,34173
+2025-03-01,Uttar Pradesh,2W,Hero,30756
+2025-03-01,Gujarat,2W,Hero,27338
+2025-03-01,Tamil Nadu,2W,Hero,27338
+2025-03-01,Karnataka,2W,Hero,25630
+2025-03-01,Delhi,2W,Hero,25630
+2025-03-01,Maharashtra,2W,Honda,28284
+2025-03-01,Uttar Pradesh,2W,Honda,25455
+2025-03-01,Gujarat,2W,Honda,22627
+2025-03-01,Tamil Nadu,2W,Honda,22627
+2025-03-01,Karnataka,2W,Honda,21213
+2025-03-01,Delhi,2W,Honda,21213
+2025-03-01,Maharashtra,2W,TVS,20299
+2025-03-01,Uttar Pradesh,2W,TVS,18269
+2025-03-01,Gujarat,2W,TVS,16239
+2025-03-01,Tamil Nadu,2W,TVS,16239
+2025-03-01,Karnataka,2W,TVS,15224
+2025-03-01,Delhi,2W,TVS,15224
+2025-03-01,Maharashtra,2W,Bajaj,14626
+2025-03-01,Uttar Pradesh,2W,Bajaj,13164
+2025-03-01,Gujarat,2W,Bajaj,11701
+2025-03-01,Tamil Nadu,2W,Bajaj,11701
+2025-03-01,Karnataka,2W,Bajaj,10970
+2025-03-01,Delhi,2W,Bajaj,10970
+2025-03-01,Maharashtra,3W,Mahindra,1897
+2025-03-01,Uttar Pradesh,3W,Mahindra,1708
+2025-03-01,Gujarat,3W,Mahindra,1518
+2025-03-01,Tamil Nadu,3W,Mahindra,1518
+2025-03-01,Karnataka,3W,Mahindra,1423
+2025-03-01,Delhi,3W,Mahindra,1423
+2025-03-01,Maharashtra,3W,Bajaj,2523
+2025-03-01,Uttar Pradesh,3W,Bajaj,2271
+2025-03-01,Gujarat,3W,Bajaj,2018
+2025-03-01,Tamil Nadu,3W,Bajaj,2018
+2025-03-01,Karnataka,3W,Bajaj,1892
+2025-03-01,Delhi,3W,Bajaj,1892
+2025-03-01,Maharashtra,3W,Tata,1184
+2025-03-01,Uttar Pradesh,3W,Tata,1066
+2025-03-01,Gujarat,3W,Tata,947
+2025-03-01,Tamil Nadu,3W,Tata,947
+2025-03-01,Karnataka,3W,Tata,888
+2025-03-01,Delhi,3W,Tata,888
+2025-03-01,Maharashtra,4W,Maruti,23559
+2025-03-01,Uttar Pradesh,4W,Maruti,21203
+2025-03-01,Gujarat,4W,Maruti,18847
+2025-03-01,Tamil Nadu,4W,Maruti,18847
+2025-03-01,Karnataka,4W,Maruti,17669
+2025-03-01,Delhi,4W,Maruti,17669
+2025-03-01,Maharashtra,4W,Hyundai,14302
+2025-03-01,Uttar Pradesh,4W,Hyundai,12872
+2025-03-01,Gujarat,4W,Hyundai,11442
+2025-03-01,Tamil Nadu,4W,Hyundai,11442
+2025-03-01,Karnataka,4W,Hyundai,10726
+2025-03-01,Delhi,4W,Hyundai,10726
+2025-03-01,Maharashtra,4W,Tata,14185
+2025-03-01,Uttar Pradesh,4W,Tata,12766
+2025-03-01,Gujarat,4W,Tata,11348
+2025-03-01,Tamil Nadu,4W,Tata,11348
+2025-03-01,Karnataka,4W,Tata,10638
+2025-03-01,Delhi,4W,Tata,10638
+2025-03-01,Maharashtra,4W,Kia,5325
+2025-03-01,Uttar Pradesh,4W,Kia,4792
+2025-03-01,Gujarat,4W,Kia,4260
+2025-03-01,Tamil Nadu,4W,Kia,4260
+2025-03-01,Karnataka,4W,Kia,3994
+2025-03-01,Delhi,4W,Kia,3994
+2025-03-01,Maharashtra,4W,MG,1706
+2025-03-01,Uttar Pradesh,4W,MG,1536
+2025-03-01,Gujarat,4W,MG,1365
+2025-03-01,Tamil Nadu,4W,MG,1365
+2025-03-01,Karnataka,4W,MG,1280
+2025-03-01,Delhi,4W,MG,1280
+2025-04-01,Maharashtra,2W,Hero,34140
+2025-04-01,Uttar Pradesh,2W,Hero,30726
+2025-04-01,Gujarat,2W,Hero,27312
+2025-04-01,Tamil Nadu,2W,Hero,27312
+2025-04-01,Karnataka,2W,Hero,25605
+2025-04-01,Delhi,2W,Hero,25605
+2025-04-01,Maharashtra,2W,Honda,28214
+2025-04-01,Uttar Pradesh,2W,Honda,25393
+2025-04-01,Gujarat,2W,Honda,22571
+2025-04-01,Tamil Nadu,2W,Honda,22571
+2025-04-01,Karnataka,2W,Honda,21161
+2025-04-01,Delhi,2W,Honda,21161
+2025-04-01,Maharashtra,2W,TVS,21541
+2025-04-01,Uttar Pradesh,2W,TVS,19387
+2025-04-01,Gujarat,2W,TVS,17233
+2025-04-01,Tamil Nadu,2W,TVS,17233
+2025-04-01,Karnataka,2W,TVS,16156
+2025-04-01,Delhi,2W,TVS,16156
+2025-04-01,Maharashtra,2W,Bajaj,16371
+2025-04-01,Uttar Pradesh,2W,Bajaj,14734
+2025-04-01,Gujarat,2W,Bajaj,13097
+2025-04-01,Tamil Nadu,2W,Bajaj,13097
+2025-04-01,Karnataka,2W,Bajaj,12279
+2025-04-01,Delhi,2W,Bajaj,12279
+2025-04-01,Maharashtra,3W,Mahindra,1945
+2025-04-01,Uttar Pradesh,3W,Mahindra,1751
+2025-04-01,Gujarat,3W,Mahindra,1556
+2025-04-01,Tamil Nadu,3W,Mahindra,1556
+2025-04-01,Karnataka,3W,Mahindra,1459
+2025-04-01,Delhi,3W,Mahindra,1459
+2025-04-01,Maharashtra,3W,Bajaj,2721
+2025-04-01,Uttar Pradesh,3W,Bajaj,2449
+2025-04-01,Gujarat,3W,Bajaj,2176
+2025-04-01,Tamil Nadu,3W,Bajaj,2176
+2025-04-01,Karnataka,3W,Bajaj,2040
+2025-04-01,Delhi,3W,Bajaj,2040
+2025-04-01,Maharashtra,3W,Tata,1216
+2025-04-01,Uttar Pradesh,3W,Tata,1095
+2025-04-01,Gujarat,3W,Tata,973
+2025-04-01,Tamil Nadu,3W,Tata,973
+2025-04-01,Karnataka,3W,Tata,912
+2025-04-01,Delhi,3W,Tata,912
+2025-04-01,Maharashtra,4W,Maruti,23316
+2025-04-01,Uttar Pradesh,4W,Maruti,20984
+2025-04-01,Gujarat,4W,Maruti,18653
+2025-04-01,Tamil Nadu,4W,Maruti,18653
+2025-04-01,Karnataka,4W,Maruti,17487
+2025-04-01,Delhi,4W,Maruti,17487
+2025-04-01,Maharashtra,4W,Hyundai,14097
+2025-04-01,Uttar Pradesh,4W,Hyundai,12687
+2025-04-01,Gujarat,4W,Hyundai,11278
+2025-04-01,Tamil Nadu,4W,Hyundai,11278
+2025-04-01,Karnataka,4W,Hyundai,10573
+2025-04-01,Delhi,4W,Hyundai,10573
+2025-04-01,Maharashtra,4W,Tata,13678
+2025-04-01,Uttar Pradesh,4W,Tata,12310
+2025-04-01,Gujarat,4W,Tata,10942
+2025-04-01,Tamil Nadu,4W,Tata,10942
+2025-04-01,Karnataka,4W,Tata,10258
+2025-04-01,Delhi,4W,Tata,10258
+2025-04-01,Maharashtra,4W,Kia,5484
+2025-04-01,Uttar Pradesh,4W,Kia,4936
+2025-04-01,Gujarat,4W,Kia,4388
+2025-04-01,Tamil Nadu,4W,Kia,4388
+2025-04-01,Karnataka,4W,Kia,4113
+2025-04-01,Delhi,4W,Kia,4113
+2025-04-01,Maharashtra,4W,MG,1882
+2025-04-01,Uttar Pradesh,4W,MG,1694
+2025-04-01,Gujarat,4W,MG,1506
+2025-04-01,Tamil Nadu,4W,MG,1506
+2025-04-01,Karnataka,4W,MG,1412
+2025-04-01,Delhi,4W,MG,1412
+2025-05-01,Maharashtra,2W,Hero,33212
+2025-05-01,Uttar Pradesh,2W,Hero,29891
+2025-05-01,Gujarat,2W,Hero,26569
+2025-05-01,Tamil Nadu,2W,Hero,26569
+2025-05-01,Karnataka,2W,Hero,24909
+2025-05-01,Delhi,2W,Hero,24909
+2025-05-01,Maharashtra,2W,Honda,26087
+2025-05-01,Uttar Pradesh,2W,Honda,23478
+2025-05-01,Gujarat,2W,Honda,20869
+2025-05-01,Tamil Nadu,2W,Honda,20869
+2025-05-01,Karnataka,2W,Honda,19565
+2025-05-01,Delhi,2W,Honda,19565
+2025-05-01,Maharashtra,2W,TVS,20566
+2025-05-01,Uttar Pradesh,2W,TVS,18509
+2025-05-01,Gujarat,2W,TVS,16452
+2025-05-01,Tamil Nadu,2W,TVS,16452
+2025-05-01,Karnataka,2W,TVS,15424
+2025-05-01,Delhi,2W,TVS,15424
+2025-05-01,Maharashtra,2W,Bajaj,15307
+2025-05-01,Uttar Pradesh,2W,Bajaj,13777
+2025-05-01,Gujarat,2W,Bajaj,12246
+2025-05-01,Tamil Nadu,2W,Bajaj,12246
+2025-05-01,Karnataka,2W,Bajaj,11481
+2025-05-01,Delhi,2W,Bajaj,11481
+2025-05-01,Maharashtra,3W,Mahindra,1680
+2025-05-01,Uttar Pradesh,3W,Mahindra,1512
+2025-05-01,Gujarat,3W,Mahindra,1344
+2025-05-01,Tamil Nadu,3W,Mahindra,1344
+2025-05-01,Karnataka,3W,Mahindra,1260
+2025-05-01,Delhi,3W,Mahindra,1260
+2025-05-01,Maharashtra,3W,Bajaj,2550
+2025-05-01,Uttar Pradesh,3W,Bajaj,2295
+2025-05-01,Gujarat,3W,Bajaj,2040
+2025-05-01,Tamil Nadu,3W,Bajaj,2040
+2025-05-01,Karnataka,3W,Bajaj,1912
+2025-05-01,Delhi,3W,Bajaj,1912
+2025-05-01,Maharashtra,3W,Tata,1143
+2025-05-01,Uttar Pradesh,3W,Tata,1029
+2025-05-01,Gujarat,3W,Tata,914
+2025-05-01,Tamil Nadu,3W,Tata,914
+2025-05-01,Karnataka,3W,Tata,857
+2025-05-01,Delhi,3W,Tata,857
+2025-05-01,Maharashtra,4W,Maruti,25353
+2025-05-01,Uttar Pradesh,4W,Maruti,22818
+2025-05-01,Gujarat,4W,Maruti,20282
+2025-05-01,Tamil Nadu,4W,Maruti,20282
+2025-05-01,Karnataka,4W,Maruti,19015
+2025-05-01,Delhi,4W,Maruti,19015
+2025-05-01,Maharashtra,4W,Hyundai,13422
+2025-05-01,Uttar Pradesh,4W,Hyundai,12079
+2025-05-01,Gujarat,4W,Hyundai,10737
+2025-05-01,Tamil Nadu,4W,Hyundai,10737
+2025-05-01,Karnataka,4W,Hyundai,10066
+2025-05-01,Delhi,4W,Hyundai,10066
+2025-05-01,Maharashtra,4W,Tata,13725
+2025-05-01,Uttar Pradesh,4W,Tata,12353
+2025-05-01,Gujarat,4W,Tata,10980
+2025-05-01,Tamil Nadu,4W,Tata,10980
+2025-05-01,Karnataka,4W,Tata,10294
+2025-05-01,Delhi,4W,Tata,10294
+2025-05-01,Maharashtra,4W,Kia,5821
+2025-05-01,Uttar Pradesh,4W,Kia,5239
+2025-05-01,Gujarat,4W,Kia,4657
+2025-05-01,Tamil Nadu,4W,Kia,4657
+2025-05-01,Karnataka,4W,Kia,4366
+2025-05-01,Delhi,4W,Kia,4366
+2025-05-01,Maharashtra,4W,MG,1739
+2025-05-01,Uttar Pradesh,4W,MG,1565
+2025-05-01,Gujarat,4W,MG,1392
+2025-05-01,Tamil Nadu,4W,MG,1392
+2025-05-01,Karnataka,4W,MG,1305
+2025-05-01,Delhi,4W,MG,1305
+2025-06-01,Maharashtra,2W,Hero,33013
+2025-06-01,Uttar Pradesh,2W,Hero,29712
+2025-06-01,Gujarat,2W,Hero,26411
+2025-06-01,Tamil Nadu,2W,Hero,26411
+2025-06-01,Karnataka,2W,Hero,24760
+2025-06-01,Delhi,2W,Hero,24760
+2025-06-01,Maharashtra,2W,Honda,24857
+2025-06-01,Uttar Pradesh,2W,Honda,22371
+2025-06-01,Gujarat,2W,Honda,19885
+2025-06-01,Tamil Nadu,2W,Honda,19885
+2025-06-01,Karnataka,2W,Honda,18643
+2025-06-01,Delhi,2W,Honda,18643
+2025-06-01,Maharashtra,2W,TVS,19692
+2025-06-01,Uttar Pradesh,2W,TVS,17723
+2025-06-01,Gujarat,2W,TVS,15753
+2025-06-01,Tamil Nadu,2W,TVS,15753
+2025-06-01,Karnataka,2W,TVS,14769
+2025-06-01,Delhi,2W,TVS,14769
+2025-06-01,Maharashtra,2W,Bajaj,15236
+2025-06-01,Uttar Pradesh,2W,Bajaj,13713
+2025-06-01,Gujarat,2W,Bajaj,12189
+2025-06-01,Tamil Nadu,2W,Bajaj,12189
+2025-06-01,Karnataka,2W,Bajaj,11427
+2025-06-01,Delhi,2W,Bajaj,11427
+2025-06-01,Maharashtra,3W,Mahindra,1770
+2025-06-01,Uttar Pradesh,3W,Mahindra,1593
+2025-06-01,Gujarat,3W,Mahindra,1416
+2025-06-01,Tamil Nadu,3W,Mahindra,1416
+2025-06-01,Karnataka,3W,Mahindra,1327
+2025-06-01,Delhi,3W,Mahindra,1327
+2025-06-01,Maharashtra,3W,Bajaj,2413
+2025-06-01,Uttar Pradesh,3W,Bajaj,2172
+2025-06-01,Gujarat,3W,Bajaj,1931
+2025-06-01,Tamil Nadu,3W,Bajaj,1931
+2025-06-01,Karnataka,3W,Bajaj,1810
+2025-06-01,Delhi,3W,Bajaj,1810
+2025-06-01,Maharashtra,3W,Tata,1169
+2025-06-01,Uttar Pradesh,3W,Tata,1052
+2025-06-01,Gujarat,3W,Tata,936
+2025-06-01,Tamil Nadu,3W,Tata,936
+2025-06-01,Karnataka,3W,Tata,877
+2025-06-01,Delhi,3W,Tata,877
+2025-06-01,Maharashtra,4W,Maruti,23992
+2025-06-01,Uttar Pradesh,4W,Maruti,21593
+2025-06-01,Gujarat,4W,Maruti,19193
+2025-06-01,Tamil Nadu,4W,Maruti,19193
+2025-06-01,Karnataka,4W,Maruti,17994
+2025-06-01,Delhi,4W,Maruti,17994
+2025-06-01,Maharashtra,4W,Hyundai,13916
+2025-06-01,Uttar Pradesh,4W,Hyundai,12524
+2025-06-01,Gujarat,4W,Hyundai,11133
+2025-06-01,Tamil Nadu,4W,Hyundai,11133
+2025-06-01,Karnataka,4W,Hyundai,10437
+2025-06-01,Delhi,4W,Hyundai,10437
+2025-06-01,Maharashtra,4W,Tata,13682
+2025-06-01,Uttar Pradesh,4W,Tata,12313
+2025-06-01,Gujarat,4W,Tata,10945
+2025-06-01,Tamil Nadu,4W,Tata,10945
+2025-06-01,Karnataka,4W,Tata,10261
+2025-06-01,Delhi,4W,Tata,10261
+2025-06-01,Maharashtra,4W,Kia,5493
+2025-06-01,Uttar Pradesh,4W,Kia,4944
+2025-06-01,Gujarat,4W,Kia,4395
+2025-06-01,Tamil Nadu,4W,Kia,4395
+2025-06-01,Karnataka,4W,Kia,4120
+2025-06-01,Delhi,4W,Kia,4120
+2025-06-01,Maharashtra,4W,MG,1738
+2025-06-01,Uttar Pradesh,4W,MG,1564
+2025-06-01,Gujarat,4W,MG,1390
+2025-06-01,Tamil Nadu,4W,MG,1390
+2025-06-01,Karnataka,4W,MG,1303
+2025-06-01,Delhi,4W,MG,1303
